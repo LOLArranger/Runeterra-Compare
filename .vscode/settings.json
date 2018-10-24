@@ -1,5 +1,4 @@
 {
 	"editor.trimAutoWhitespace": false,
-	"files.trimFinalNewlines": true,
 	"files.trimTrailingWhitespace": false
 }
