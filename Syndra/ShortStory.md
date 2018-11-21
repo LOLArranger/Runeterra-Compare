@@ -175,54 +175,78 @@
 > 他在这里是为了能够一直守望她。  
 > He remained here to keep watch over her.
 #### 03
-一对黑衣人从海里钻了出来，一男一女，如死亡般无影无声。他们像蜘蛛一样敏捷地爬上了猩红女猎手号战舰近乎垂直的侧舷，沿着舷缘悄声潜行。他们的刀刃闪着寒光，战舰的守夜哨兵被悄无声息地放倒，接二连三，没有发出任何警报。
-A pair of dark-clad figures—one female, one male—emerged from the sea, unseen, and as silent as death. Swiftly, moving like spiders, they scaled the near-vertical hull of the warship Crimson Huntress, and slunk over its gunwale. Their blades glinted, and the ship’s night wardens were silently dispatched, one after another, without any alarm being sounded.
+> 一对黑衣人从海里钻了出来，一男一女，如死亡般无影无声。  
+> A pair of dark-clad figures—one female, one male—emerged from the sea, unseen, and as silent as death.
+>
+> 他们像蜘蛛一样敏捷地爬上了猩红女猎手号战舰近乎垂直的侧舷，沿着舷缘悄声潜行。  
+> Swiftly, moving like spiders, they scaled the near-vertical hull of the warship Crimson Huntress, and slunk over its gunwale.
+>
+> 他们的刀刃闪着寒光，战舰的守夜哨兵被悄无声息地放倒，接二连三，没有发出任何警报。  
+> Their blades glinted, and the ship’s night wardens were silently dispatched, one after another, without any alarm being sounded.
 
-片刻，全部五个诺克萨斯哨兵全都毙命，他们的鲜血开始漏到甲板上。
-Within moments, all five Noxians were dead, their lifeblood leaking out onto the deck.
+> 片刻，全部五个诺克萨斯哨兵全都毙命，他们的鲜血开始漏到甲板上。  
+> Within moments, all five Noxians were dead, their lifeblood leaking out onto the deck.
 
-“干的利索，老弟，”其中一人开口说道，俯身藏在上层甲板的阴影中。在她脸上，只能看到一对眼睛和周围缠绕的靛蓝刺青。
-“Neatly done, little brother,” said one of the pair, now crouched in the shadow of the upper deck. Of her face, only her eyes and the swirling indigo tattoos that surrounded them were visible.
+> “干的利索，老弟，”其中一人开口说道，俯身藏在上层甲板的阴影中。  
+> “Neatly done, little brother,” said one of the pair, now crouched in the shadow of the upper deck.
+>
+> 在她脸上，只能看到一对眼睛和周围缠绕的靛蓝刺青。  
+> Of her face, only her eyes and the swirling indigo tattoos that surrounded them were visible.
 
-“这要感谢我略有才能的老师，”另一个人答道。他也穿着一袭黑衣，伏在黑影中，只不过在他姐姐脸上刺青的位置，他的皮肤是厚实的瘢痕刻印。
-“I had a passably decent teacher,” replied the other. He too was fully clad in black and crouched in shadow, though in place of his sister’s swirling tattoos, his skin was a solid block of etched flesh.
+> “这要感谢我略有才能的老师，”另一个人答道。  
+> “I had a passably decent teacher,” replied the other.
+>
+> 他也穿着一袭黑衣，伏在黑影中，只不过在他姐姐脸上刺青的位置，他的皮肤是厚实的瘢痕刻印。  
+> He too was fully clad in black and crouched in shadow, though in place of his sister’s swirling tattoos, his skin was a solid block of etched flesh.
 
-“略有才能，奥金？”她提起一瞥眉毛说道。
-“Passably decent, Okin?” she replied, one eyebrow rising.
+> “略有才能，**奥金**`Okin`？”她提起一瞥眉毛说道。  
+> “Passably decent, Okin?” she replied, one eyebrow rising.
 
-“不能让你太骄傲，希里克，”她的弟弟回答。
-“No need to feed your ego, Sirik,” her brother replied.
+> “不能让你太骄傲，**希里克**`Sirik`，”她的弟弟回答。  
+> “No need to feed your ego, Sirik,” her brother replied.
 
-“不闹了，”希里克说。她打开了后腰上系着的皮包，缓缓取出了一方用蜡封和皮革紧紧裹住的东西。她小心翼翼地将外包解开，亮出一块拳头大小的黑水晶。
-“Enough fooling around,” said Sirik. She opened a black leather pouch at her hip and delicately removed an object, tightly bound in waxed leather. She unwrapped it, gingerly, revealing a fist-sized, black crystal.
+> “不闹了，”希里克说。  
+> “Enough fooling around,” said Sirik. 
+>
+> 她打开了后腰上系着的皮包，缓缓取出了一方用蜡封和皮革紧紧裹住的东西。  
+> She opened a black leather pouch at her hip and delicately removed an object, tightly bound in waxed leather.
+>
+> 她小心翼翼地将外包解开，亮出一块拳头大小的黑水晶。  
+> She unwrapped it, gingerly, revealing a fist-sized, black crystal.
 
-“没湿吧？”奥金悄悄问道。
-“Is it dry?” whispered Okin.
+> “没湿吧？”奥金悄悄问道。  
+> “Is it dry?” whispered Okin.
 
-作为回答，希里克轻轻摇晃了一下水晶。一道橙色的火光从水晶中心一闪而过，如同被煽动的余烬
-In answer, Sirik gently shook the crystal. A hint of an orange glow lit it from within for a brief moment, like a fanned ember.
+> 作为回答，希里克轻轻摇晃了一下水晶。  
+> In answer, Sirik gently shook the crystal.
+>
+> 一道橙色的火光从水晶中心一闪而过，如同被煽动的余烬。  
+> A hint of an orange glow lit it from within for a brief moment, like a fanned ember.
 
-“看样是的。我会给他找个好地方，”她一边说，一边点头示意了附近的一扇门，门后通往下层甲板。“你发信号通知其他人。”
-“It would seem so. I’ll find a suitable place for it,” she said, nodding to the nearby door leading below deck. “You signal the others.”
+> “看样是的。我会给他找个好地方，”她一边说，一边点头示意了附近的一扇门，门后通往下层甲板。  
+> “你发信号通知其他人。”  
+> “It would seem so. I’ll find a suitable place for it,” she said, nodding to the nearby door leading below deck. 
+> “You signal the others.”
 
-奥金点了点头。希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。他将上半身探到外侧做了个手势。又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。
+奥金点了点头。希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。他将上半身探到外侧做了个手势。又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。  
 Okin nodded. Sirik ghosted below deck, and her brother moved silently back to the gunwale. He leaned over the edge and beckoned. Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.
 
-他们是无告者，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。
-They were the dispossessed—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them. The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.
+他们是**无告者**`the dispossessed`，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
+They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them. The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.
 
-所有人都在甲板上到齐后，他们稍作等待，几分钟后希里克出现了。
+所有人都在甲板上到齐后，他们稍作等待，几分钟后希里克出现了。  
 Once all were on deck, they waited a moment for Sirik, who emerged after a few minutes.
 
-“完事，”她说。
+“完事，”她说。  
 “It is done,” she said.
 
-九名艾欧尼亚无告者流向战舰的一侧，紧跟着带头的姐弟俩。他们的动作行云流水，沿着石台码头向斐洛尔要塞方向轻巧地跑去。
+九名艾欧尼亚无告者流向战舰的一侧，紧跟着带头的姐弟俩。他们的动作行云流水，沿着石台码头向斐洛尔要塞方向轻巧地跑去。  
 The nine dispossessed Ionians flowed over the ship’s side, following the leading pair. They moved as fluidly as water, and ran lightly along the stone dock towards the fortress of Fae’lor.
 
-他们从一处阴影冲进另一处阴影，如同九个幽灵，最后一起停在第一堵高墙下。他们拥入黑暗，纹丝不动地等一支巡逻队走过，几名诺克萨斯战士用他们粗糙的语言谈天说笑，被尺开外的艾欧尼亚人用夜视眼看的一清二楚。
+他们从一处阴影冲进另一处阴影，如同九个幽灵，最后一起停在第一堵高墙下。他们拥入黑暗，纹丝不动地等一支巡逻队走过，几名诺克萨斯战士用他们粗糙的语言谈天说笑，被尺开外的艾欧尼亚人用夜视眼看的一清二楚。  
 From shadow to shadow they darted, like specters, until they reached the first wall. Hugging the darkness, they remained utterly motionless as a patrol marched by, the Noxian warriors speaking in their guttural language and laughing, utterly oblivious to the nigh-invisible Ionians crouched mere feet away.
-巡逻队刚转过拐角，几名潜入者就再次行动，爬上光秃秃的墙壁，双手利落地交替攀援。他们看上去毫不费力，如同攀爬云梯，只不过事实上并没有任何扶手。
+
+巡逻队刚转过拐角，几名潜入者就再次行动，爬上光秃秃的墙壁，双手利落地交替攀援。他们看上去毫不费力，如同攀爬云梯，只不过事实上并没有任何扶手。  
 As soon as the patrol turned a corner, the infiltrators snapped into motion once more, climbing the sheer surface of the wall, moving swiftly, hand-over-hand. They made it look easy, like climbing a ladder, though in truth there were virtually no handholds.
 
 希里克最先爬到垛口处。她探头瞥了一眼，然后迅速缩回身子，完全静止不动，一只手挂在垛口处。她下面的人也全都静止不动，看到她迅速做出一系列手势，便迅速爬上与她同高的位置。她握起一只拳，然后攀上墙头，她的弟弟奥金紧随其后。诺克萨斯人浑然不知这对艾欧尼亚人如幽灵般尾随其后，在垛口顶端轻轻腾挪。
@@ -255,7 +279,7 @@ Okin cursed under his breath. “They know we’re here,” he hissed.
 第一声吼叫后跟来了了更多声吼叫，随后钟声响起，回荡在整座要塞中。
 The first shout was echoed by others, and a bell began to toll, sounding out across the fortress.
 
-“时机已到，声东击西，”希里克说道。她闭上双眼，让心中的随想静默下来。她睁开心灵之眼，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴进水晶，将其煽动活跃。
+“时机已到，声东击西，”希里克说道。她闭上双眼，让心中的随想静默下来。她睁开**心灵之眼**`mind’s eye`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴进水晶，将其煽动活跃。
 “Time for our distraction,” said Sirik. She closed her eyes and silenced her inner thoughts. In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.
 
 她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。她的能力只是很普通的天赋，就像她村里的农民也能往庄稼里扭进小小的魔法。在外人眼里看着很惊奇，但在她的同胞中，这种简单的天赋没什么了不起，也不会让人意外。这就像吹口哨，或者纵卷舌头——有人天生就能，有人一辈子也不能。
@@ -267,7 +291,7 @@ Sirik deepened her breathing, and intensified her silent entreaties, encouraging
 她的天赋能力很小，但它引发的水晶活化的效果绝不小。当然，火焰石本身的不稳定性是主要，她的天生能力是次要，但无论怎么说，制造出的结果很震撼。
 Her gift might have been minor, but the effect of it as she nudged the crystal to life was not. That had more to do with the volatile nature of the fyrestone crystal than any innate power of her own, of course, but nevertheless, the result was impressive.
 
-在下方的港湾里，那艘诺克萨斯的猩红女猎手号战舰爆炸了，一团火球推着热浪照亮了黑夜。所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。
+在下方的港湾里，那艘诺克萨斯的**猩红女猎手**`Crimson Huntress`号战舰爆炸了，一团火球推着热浪照亮了黑夜。所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。
 In the harbor below, the Noxian warship Crimson Huntress exploded, lighting up the night in a billowing fireball. Soldiers who were responding to Fae’lor’s warning bells stopped in their tracks, turning towards sudden inferno.
 
 希里克睁开双眼。“走。”她说。
