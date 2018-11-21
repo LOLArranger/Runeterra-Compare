@@ -68,7 +68,7 @@
 > However, Syndra grew frustrated as, instead of gaining more control, over the years her magic seemed to weaken.
 
 > 而柯尼根每天早晨都把自己关起来，独自冥想，也不再教她任何新东西，于是她直截了当地质问老师。  
-> Konigen now locked himself away each morning, meditating in solitude rather than teaching her anything new, and so she confronted him. 
+> Konigen now locked himself away each morning, meditating in solitude rather than teaching her anything new, and so she confronted him.
 
 > 他疲惫地咧开嘴，坦诚地告诉她，她的阴郁能量日积月累，已经远远超出他作为导师的能力，他是在有意消解她的力量，从而换来她的安全。  
 > His teeth gritted with exhaustion, he confessed that he was deliberately dampening her power, for her own safety. Such negativity had a strange, unpredictable effect on reality, and Syndra had grown far beyond his ability as a mentor.
@@ -83,7 +83,7 @@
 > The foundations of the temple shook. The morning light seemed to pale.
 
 > 辛德拉从地面上站起来，心中激荡着沮丧。  
-> Syndra rose from the floor, as her frustrations surged within her. 
+> Syndra rose from the floor, as her frustrations surged within her.
 
 > 她从空中攫取黑暗法球，用它们洞穿导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
 > She snatched dark orbs from the air, and cast them through her mentor’s body, forcing him to feel all of her bitter outrage as he died.

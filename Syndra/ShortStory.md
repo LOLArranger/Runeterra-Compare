@@ -11,7 +11,7 @@
 > Glowing flitterwings danced through the twilight, leaving trails of luminescence in their wake, but she swatted them out of her face, oblivious to their fleeting grace.
 >
 > 她双眼垂向地面，踢开一块石头，任其在盘错的树根间跳跃，毫不理会茂密华盖间透过的夕阳。  
-> Eyes downcast, she kicked a rock, sending it skidding over the roots twisting across her path, blind to the glorious sunset glimpsed through the canopy. 
+> Eyes downcast, she kicked a rock, sending it skidding over the roots twisting across her path, blind to the glorious sunset glimpsed through the canopy.
 >
 > 紫夜貂的花瓣缓缓张开，向温润的暮色吐出微光的花粉，但匆匆路过的她却顺手将花茎扭断。  
 > The delicate violet petals of a blooming night-sable unfurled to release its glowing pollen into the warm evening, but she reached out and twisted the flower off its stem as she passed.
@@ -71,7 +71,7 @@
 > Its chimes tolled a mournful death-rattle, but the girl didn’t hear it, lost in the moment of her seething fury.
 
 > 随着那颗古老原始的灵树消逝，女孩离开了地面，漂浮于空中。  
-> As the ancient, primordial tree perished, the little girl began to lift off the ground, rising into the air. 
+> As the ancient, primordial tree perished, the little girl began to lift off the ground, rising into the air.
 >
 > 三颗吞没光亮的至暗球体开始在女孩周围环绕。  
 > Three light-swallowing spheres of absolute darkness began to orbit around the child.
@@ -206,7 +206,7 @@
 > “No need to feed your ego, Sirik,” her brother replied.
 
 > “不闹了，”希里克说。  
-> “Enough fooling around,” said Sirik. 
+> “Enough fooling around,” said Sirik.
 >
 > 她打开了后腰上系着的皮包，缓缓取出了一方用蜡封和皮革紧紧裹住的东西。  
 > She opened a black leather pouch at her hip and delicately removed an object, tightly bound in waxed leather.
@@ -224,12 +224,22 @@
 > A hint of an orange glow lit it from within for a brief moment, like a fanned ember.
 
 > “看样是的。我会给他找个好地方，”她一边说，一边点头示意了附近的一扇门，门后通往下层甲板。  
+> “It would seem so. I’ll find a suitable place for it,” she said, nodding to the nearby door leading below deck.
+>
 > “你发信号通知其他人。”  
-> “It would seem so. I’ll find a suitable place for it,” she said, nodding to the nearby door leading below deck. 
 > “You signal the others.”
 
-奥金点了点头。希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。他将上半身探到外侧做了个手势。又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。  
-Okin nodded. Sirik ghosted below deck, and her brother moved silently back to the gunwale. He leaned over the edge and beckoned. Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.
+> 奥金点了点头。
+> Okin nodded.
+>
+> 希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。
+> Sirik ghosted below deck, and her brother moved silently back to the gunwale.
+>
+> 他将上半身探到外侧做了个手势。
+> He leaned over the edge and beckoned.
+>
+> 又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。  
+> Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.
 
 他们是**无告者**`the dispossessed`，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
 They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them. The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.
