@@ -78,6 +78,7 @@
 
 > 折磨她的人现在全都笑不出来了……  
 > Her tormentors were not laughing now...
+
 #### 02
 > **卡兰**`Kalan`站在**斐洛尔**`Fae’lor`的城防垛口上，视线越过狭海投向**初生之土**`the First Lands`的内陆——如今被人类称为**艾欧尼亚**`Ionia`的那片土地。  
 > Kalan stood upon the battements of Fae’lor, looking across the narrow sea towards the mainland of the First Lands—what humans now called Ionia.
@@ -106,10 +107,10 @@
 > 他穿着**诺克萨斯的**`Noxian`黑铁铠甲，这身来自他第二祖国的装束总是让他愁容满面。  
 > The armor he wore was Noxian dark iron, and he wore the trappings of his adopted empire with a scowl.
 
-> 有人叫他叛徒，说他既背叛了艾欧尼亚，也背叛了瓦斯塔亚的传承，但他不在乎。
+> 有人叫他叛徒，说他既背叛了艾欧尼亚，也背叛了瓦斯塔亚的传承，但他不在乎。  
 > Some called him a traitor, both to Ionia and his vastayan heritage, but he didn’t care.
 >
-> 他们怎么想无关紧要。
+> 他们怎么想无关紧要。  
 > What they thought didn’t matter.
 
 > 斐洛尔要塞坐落于艾欧尼亚最西边的岛上。  
@@ -174,6 +175,7 @@
 
 > 他在这里是为了能够一直守望她。  
 > He remained here to keep watch over her.
+
 #### 03
 > 一对黑衣人从海里钻了出来，一男一女，如死亡般无影无声。  
 > A pair of dark-clad figures—one female, one male—emerged from the sea, unseen, and as silent as death.
@@ -229,185 +231,377 @@
 > “你发信号通知其他人。”  
 > “You signal the others.”
 
-> 奥金点了点头。
+> 奥金点了点头。  
 > Okin nodded.
 >
-> 希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。
+> 希里克飘到下层甲板，她的弟弟悄悄回到船舷边缘。  
 > Sirik ghosted below deck, and her brother moved silently back to the gunwale.
 >
-> 他将上半身探到外侧做了个手势。
+> 他将上半身探到外侧做了个手势。  
 > He leaned over the edge and beckoned.
 >
 > 又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。  
 > Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.
 
-他们是**无告者**`the dispossessed`，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
-They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them. The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.
+> 他们是**无告者**`the dispossessed`，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。  
+> They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them.
+>
+> 那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
+> The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.
 
-所有人都在甲板上到齐后，他们稍作等待，几分钟后希里克出现了。  
-Once all were on deck, they waited a moment for Sirik, who emerged after a few minutes.
+> 所有人都在甲板上到齐后，他们稍作等待，几分钟后希里克出现了。  
+> Once all were on deck, they waited a moment for Sirik, who emerged after a few minutes.
 
-“完事，”她说。  
-“It is done,” she said.
+> “完事，”她说。  
+> “It is done,” she said.
 
-九名艾欧尼亚无告者流向战舰的一侧，紧跟着带头的姐弟俩。他们的动作行云流水，沿着石台码头向斐洛尔要塞方向轻巧地跑去。  
-The nine dispossessed Ionians flowed over the ship’s side, following the leading pair. They moved as fluidly as water, and ran lightly along the stone dock towards the fortress of Fae’lor.
+> 九名艾欧尼亚无告者流向战舰的一侧，紧跟着带头的姐弟俩。  
+> The nine dispossessed Ionians flowed over the ship’s side, following the leading pair.
+>
+> 他们的动作行云流水，沿着石台码头向斐洛尔要塞方向轻巧地跑去。  
+> They moved as fluidly as water, and ran lightly along the stone dock towards the fortress of Fae’lor.
 
-他们从一处阴影冲进另一处阴影，如同九个幽灵，最后一起停在第一堵高墙下。他们拥入黑暗，纹丝不动地等一支巡逻队走过，几名诺克萨斯战士用他们粗糙的语言谈天说笑，被尺开外的艾欧尼亚人用夜视眼看的一清二楚。  
-From shadow to shadow they darted, like specters, until they reached the first wall. Hugging the darkness, they remained utterly motionless as a patrol marched by, the Noxian warriors speaking in their guttural language and laughing, utterly oblivious to the nigh-invisible Ionians crouched mere feet away.
+> 他们从一处阴影冲进另一处阴影，如同九个幽灵，最后一起停在第一堵高墙下。  
+> From shadow to shadow they darted, like specters, until they reached the first wall.
+>
+> 他们拥入黑暗，纹丝不动地等一支巡逻队走过，  
+> Hugging the darkness, they remained utterly motionless as a patrol marched by,
+>
+> 几名诺克萨斯战士用他们粗糙的语言谈天说笑，被尺开外的艾欧尼亚人用夜视眼看的一清二楚。  
+> the Noxian warriors speaking in their guttural language and laughing, utterly oblivious to the nigh-invisible Ionians crouched mere feet away.
 
-巡逻队刚转过拐角，几名潜入者就再次行动，爬上光秃秃的墙壁，双手利落地交替攀援。他们看上去毫不费力，如同攀爬云梯，只不过事实上并没有任何扶手。  
-As soon as the patrol turned a corner, the infiltrators snapped into motion once more, climbing the sheer surface of the wall, moving swiftly, hand-over-hand. They made it look easy, like climbing a ladder, though in truth there were virtually no handholds.
+> 巡逻队刚转过拐角，几名潜入者就再次行动，爬上光秃秃的墙壁，双手利落地交替攀援。  
+> As soon as the patrol turned a corner, the infiltrators snapped into motion once more, climbing the sheer surface of the wall, moving swiftly, hand-over-hand.
+>
+> 他们看上去毫不费力，如同攀爬云梯，只不过事实上并没有任何扶手。  
+> They made it look easy, like climbing a ladder, though in truth there were virtually no handholds.
 
-希里克最先爬到垛口处。她探头瞥了一眼，然后迅速缩回身子，完全静止不动，一只手挂在垛口处。她下面的人也全都静止不动，看到她迅速做出一系列手势，便迅速爬上与她同高的位置。她握起一只拳，然后攀上墙头，她的弟弟奥金紧随其后。诺克萨斯人浑然不知这对艾欧尼亚人如幽灵般尾随其后，在垛口顶端轻轻腾挪。
-Sirik reached the crenellations first. She peered over, then ducked swiftly back and went perfectly still, clinging one-handed to the battlements. The others below her froze, then hurriedly climbed to join her as she made a series of swift hand-movements. She made a fist, before climbing atop the wall, joined by her brother, Okin. None of the Noxians saw the pair of Ionians ghosting along behind them, hopping lightly across the top of the battlements in their wake.
+> 希里克最先爬到垛口处。  
+> Sirik reached the crenellations first.
+>
+> 她探头瞥了一眼，然后迅速缩回身子，完全静止不动，一只手挂在垛口处。  
+> She peered over, then ducked swiftly back and went perfectly still, clinging one-handed to the battlements.
+>
+> 她下面的人也全都静止不动，看到她迅速做出一系列手势，便迅速爬上与她同高的位置。  
+> The others below her froze, then hurriedly climbed to join her as she made a series of swift hand-movements.
+>
+> 她握起一只拳，然后攀上墙头，她的弟弟奥金紧随其后。  
+> She made a fist, before climbing atop the wall, joined by her brother, Okin.
+>
+> 诺克萨斯人浑然不知这对艾欧尼亚人如幽灵般尾随其后，在垛口顶端轻轻腾挪。  
+> None of the Noxians saw the pair of Ionians ghosting along behind them, hopping lightly across the top of the battlements in their wake.
 
-随后，希里克和奥金跳入敌人中间，四名卫兵连刀都没拔出来就都被杀掉了。
-Then Sirik and Okin leapt among the enemy, and the four guards were killed before a single one drew a blade.
+> 随后，希里克和奥金跳入敌人中间，四名卫兵连刀都没拔出来就都被杀掉了。  
+> Then Sirik and Okin leapt among the enemy, and the four guards were killed before a single one drew a blade.
 
-最后一个卫兵被杀的时候紧紧捂住自己的脖子，捂不住潺潺流出的鲜血，继而摇晃着跌向城墙边缘，希里克抓住了他，就像捧着自己的情侣一样拥他入怀，然后将他缓缓放到地上；如果他倒了下去，撞击的声音无疑会引起警戒。
-The last of them clutched his throat, blood welling beneath his hand, and teetered on the edge of the wall. Sirik grabbed him, like a lover enfolding her paramour in her arms, and lowered him gently to the ground; if he’d fallen, the sound would undoubtedly have raised the alarm.
+> 最后一个卫兵被杀的时候紧紧捂住自己的脖子，捂不住潺潺流出的鲜血，继而摇晃着跌向城墙边缘，  
+> The last of them clutched his throat, blood welling beneath his hand, and teetered on the edge of the wall.
+>
+> 希里克抓住了他，就像捧着自己的情侣一样拥他入怀，然后将他缓缓放到地上；  
+> Sirik grabbed him, like a lover enfolding her paramour in her arms, and lowered him gently to the ground;
+>
+> 如果他倒了下去，撞击的声音无疑会引起警戒。  
+> if he’d fallen, the sound would undoubtedly have raised the alarm.
 
-附近其他两名守卫也被迅速放倒，无声且无情，随后其他艾欧尼亚人都翻上城墙。稍作停顿后，九个身影如同一个人般继续行动，冲过一片开阔的庭院，开始攀爬要塞内层的高墙。
-Two other guards nearby were swiftly dispatched, silently and without mercy, as the other Ionians came over the wall. Then, as one, the nine moved on, darting across an open courtyard and scaling a second, inner wall.
+> 附近其他两名守卫也被迅速放倒，无声且无情，随后其他艾欧尼亚人都翻上城墙。  
+> Two other guards nearby were swiftly dispatched, silently and without mercy, as the other Ionians came over the wall.
+>
+> 稍作停顿后，九个身影如同一个人般继续行动，冲过一片开阔的庭院，开始攀爬要塞内层的高墙。  
+> Then, as one, the nine moved on, darting across an open courtyard and scaling a second, inner wall.
 
-每个人都对自己的目标了然于心，每个人都对要塞的地形了如指掌，因为这里是他们自己人构筑的工事。诺克萨斯人只不过是暂时的占领者。
-Each of them knew their target, and each knew the precise layout of the fortress, for it had been their own people who had constructed it. The Noxians were merely its current occupants.
+> 每个人都对自己的目标了然于心，每个人都对要塞的地形了如指掌，因为这里是他们自己人构筑的工事。  
+> Each of them knew their target, and each knew the precise layout of the fortress, for it had been their own people who had constructed it.
+>
+> 克萨斯人只不过是暂时的占领者。  
+> The Noxians were merely its current occupants.
 
-他们攀上内墙，翻过垛口，简直有如神助一般，恰好错开了墙上的两队哨兵。斐洛尔要塞背靠的高崖此刻为他们提供了阴影，让他们融入黑夜中。
-They scrambled up the inner wall, and flowed over the parapet, their timing almost preternatural as they avoided two pairs of a sentries atop the wall. They ducked into the shadow of the jutting stone bluff Fae’lor abutted, and became as one with the darkness.
+> 他们攀上内墙，翻过垛口，简直有如神助一般，恰好错开了墙上的两队哨兵。  
+> They scrambled up the inner wall, and flowed over the parapet, their timing almost preternatural as they avoided two pairs of a sentries atop the wall.
+>
+> 斐洛尔要塞背靠的高崖此刻为他们提供了阴影，让他们融入黑夜中。  
+> They ducked into the shadow of the jutting stone bluff Fae’lor abutted, and became as one with the darkness.
 
-就在这时他们听到一声大吼，从码头的方向回荡。
-That was when a shout sounded, echoing up from the docks.
+> 就在这时他们听到一声大吼，从码头的方向回荡。  
+> That was when a shout sounded, echoing up from the docks.
 
-奥金把咒骂声藏在呼吸里。“他们知道了，”他嘶嘶地说道。
-Okin cursed under his breath. “They know we’re here,” he hissed.
+> 奥金把咒骂声藏在呼吸里。  
+> Okin cursed under his breath.
+>
+> “他们知道了，”他嘶嘶地说道。  
+> “They know we’re here,” he hissed.
 
-“我原本希望能在第一具尸体被发现的时候再深入一些的，”希里克说，“但这无关紧要。我们继续按计划行事。”
-“I had hoped to be further in before they discovered the first body,” said Sirik, “but this changes nothing. We continue as planned.”
+> “我原本希望能在第一具尸体被发现的时候再深入一些的，”  
+> “I had hoped to be further in before they discovered the first body,”
+>
+> 希里克说，“但这无关紧要。我们继续按计划行事。”  
+> said Sirik, “but this changes nothing. We continue as planned.”
 
-第一声吼叫后跟来了了更多声吼叫，随后钟声响起，回荡在整座要塞中。
-The first shout was echoed by others, and a bell began to toll, sounding out across the fortress.
+> 第一声吼叫后跟来了了更多声吼叫，随后钟声响起，回荡在整座要塞中。  
+> The first shout was echoed by others, and a bell began to toll, sounding out across the fortress.
 
-“时机已到，声东击西，”希里克说道。她闭上双眼，让心中的随想静默下来。她睁开**心灵之眼**`mind’s eye`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴进水晶，将其煽动活跃。
-“Time for our distraction,” said Sirik. She closed her eyes and silenced her inner thoughts. In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.
+> “时机已到，声东击西，”希里克说道。  
+> “Time for our distraction,” said Sirik.
+>
+> 她闭上双眼，让心中的随想静默下来。  
+> She closed her eyes and silenced her inner thoughts.
+>
+> 她睁开**心灵之眼**`mind’s eye`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴进水晶，将其煽动活跃。  
+> In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.
 
-她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。她的能力只是很普通的天赋，就像她村里的农民也能往庄稼里扭进小小的魔法。在外人眼里看着很惊奇，但在她的同胞中，这种简单的天赋没什么了不起，也不会让人意外。这就像吹口哨，或者纵卷舌头——有人天生就能，有人一辈子也不能。
-She was no conjurer or soul-mage, but like many of her people, she could feel and subtly manipulate the magic of the land in minor, fairly insignificant ways. Hers was just a small, common gift, akin to that of the farmers of her village who spun a little magic into their crops. To outsiders this was shocking, but among her people, such simple gifts were not at all unusual, nor regarded as anything to be held in awe. It was like being able to whistle, or curl your tongue—some people could do it, others couldn’t.
+> 她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。  
+> She was no conjurer or soul-mage, but like many of her people, she could feel and subtly manipulate the magic of the land in minor, fairly insignificant ways.
+>
+> 她的能力只是很普通的天赋，就像她村里的农民也能往庄稼里扭进小小的魔法。  
+> Hers was just a small, common gift, akin to that of the farmers of her village who spun a little magic into their crops.
+>
+> 在外人眼里看着很惊奇，但在她的同胞中，这种简单的天赋没什么了不起，也不会让人意外。  
+> To outsiders this was shocking, but among her people, such simple gifts were not at all unusual, nor regarded as anything to be held in awe.
+>
+> 这就像吹口哨，或者纵卷舌头——有人天生就能，有人一辈子也不能。  
+> It was like being able to whistle, or curl your tongue—some people could do it, others couldn’t.
 
-希里克调整呼吸的深度，强化了无声的祈求，鼓动那颗火焰石发挥自己原本的特性。
-Sirik deepened her breathing, and intensified her silent entreaties, encouraging the fyrestone to do what was it its nature to do.
+> 希里克调整呼吸的深度，强化了无声的祈求，鼓动那颗火焰石发挥自己原本的特性。  
+> Sirik deepened her breathing, and intensified her silent entreaties, encouraging the fyrestone to do what was it its nature to do.
 
-她的天赋能力很小，但它引发的水晶活化的效果绝不小。当然，火焰石本身的不稳定性是主要，她的天生能力是次要，但无论怎么说，制造出的结果很震撼。
-Her gift might have been minor, but the effect of it as she nudged the crystal to life was not. That had more to do with the volatile nature of the fyrestone crystal than any innate power of her own, of course, but nevertheless, the result was impressive.
+> 她的天赋能力很小，但它引发的水晶活化的效果绝不小。  
+> Her gift might have been minor, but the effect of it as she nudged the crystal to life was not.
+>
+> 当然，**火焰石**`fyrestone`本身的不稳定性是主要，她的天生能力是次要，但无论怎么说，制造出的结果很震撼。  
+> That had more to do with the volatile nature of the fyrestone crystal than any innate power of her own, of course, but nevertheless, the result was impressive.
 
-在下方的港湾里，那艘诺克萨斯的**猩红女猎手**`Crimson Huntress`号战舰爆炸了，一团火球推着热浪照亮了黑夜。所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。
-In the harbor below, the Noxian warship Crimson Huntress exploded, lighting up the night in a billowing fireball. Soldiers who were responding to Fae’lor’s warning bells stopped in their tracks, turning towards sudden inferno.
+> 在下方的港湾里，那艘诺克萨斯的**猩红女猎手**`Crimson Huntress`号战舰爆炸了，一团火球推着热浪照亮了黑夜。  
+> In the harbor below, the Noxian warship Crimson Huntress exploded, lighting up the night in a billowing fireball.
+>
+> 所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。  
+> Soldiers who were responding to Fae’lor’s warning bells stopped in their tracks, turning towards sudden inferno.
 
-希里克睁开双眼。“走。”她说。
-Sirik opened her eyes. “Let’s go,” she said.
+> 希里克睁开双眼。  
+> Sirik opened her eyes.
+>
+> “走。”她说。  
+> “Let’s go,” she said.
+
 #### 04
-卡兰悄悄来到石台码头前，两侧跟着卫兵，他的三条尾巴充满威胁地扫来扫去。
-Kalan stalked onto the stone dock, flanked by guards, his three tails swishing dangerously.
+> 卡兰悄悄来到石台码头前，两侧跟着卫兵，他的三条尾巴充满威胁地扫来扫去。  
+> Kalan stalked onto the stone dock, flanked by guards, his three tails swishing dangerously.
 
-“艾欧尼亚人的暗中破坏，我猜是的，大人，”一个面色紧张的军官说道，他需要小步慢跑才能跟得上卡兰的步伐。“黑火药的爆炸，估计是。”
-“The work of Ionian saboteurs, I would guess, my lord,” said a nervous-looking officer, trotting to keep up with Kalan’s long strides. “A black powder detonation, most likely.”
+> “艾欧尼亚人的暗中破坏，我猜是的，大人，”一个面色紧张的军官说道，他需要小步慢跑才能跟得上卡兰的步伐。  
+> “The work of Ionian saboteurs, I would guess, my lord,” said a nervous-looking officer, trotting to keep up with Kalan’s long strides.
+>
+> “黑火药的爆炸，估计是。”  
+> “A black powder detonation, most likely.”
 
-卡兰停下脚步，眉头紧锁地观察码头上的损害。
-Kalan halted and frowned deeply as he surveyed the mayhem on the docks.
+> 卡兰停下脚步，眉头紧锁地观察码头上的损害。  
+> Kalan halted and frowned deeply as he surveyed the mayhem on the docks.
 
-猩红女猎手号已经彻底不再，只剩下船底。还有木料尚存的地方都在着火。旁边三艘船也都被引燃，虽然船员们在奋力救火，但卡兰瞥一眼就知道其中至少已经有一艘船救不回来了，他气恼地吼了一声，露出了一排尖牙。
-The Crimson Huntress was no more, reduced to the waterline. What timbers remained still burned. Three other nearby vessels were ablaze, and while crews worked to put out the flames, Kalan could see at a glance that at least one of them was a lost cause, and he snarled in frustration, exposing his teeth.
+> 猩红女猎手号已经彻底不再，只剩下船底。  
+> The Crimson Huntress was no more, reduced to the waterline.
+>
+> 还有木料尚存的地方都在着火。  
+> What timbers remained still burned.
+>
+> 旁边三艘船也都被引燃，虽然船员们在奋力救火，  
+> Three other nearby vessels were ablaze, and while crews worked to put out the flames,
+>
+> 但卡兰瞥一眼就知道其中至少已经有一艘船救不回来了，他气恼地吼了一声，露出了一排尖牙。  
+> Kalan could see at a glance that at least one of them was a lost cause, and he snarled in frustration, exposing his teeth.
 
-“我们已经拿下了码头，目前正在搜查所有其他船只，”那名紧张的军官说道。“如果还有更多爆炸物，我们一定会搜出来。”
-“We’ve secured the docks, and a thorough search of all other ships is currently underway,” said the nervous officer. “If there are more explosives, they will be found.”
+> “我们已经拿下了码头，目前正在搜查所有其他船只，”那名紧张的军官说道。  
+> “We’ve secured the docks, and a thorough search of all other ships is currently underway,” said the nervous officer.
+>
+> “如果还有更多爆炸物，我们一定会搜出来。”  
+> “If there are more explosives, they will be found.”
 
-卡兰没有理会他，怀疑地眯起眼睛。他单膝跪下，在地上抓了几下，然后拿到鼻子前闻了闻。
-Kalan ignored him, eyes narrowed. He dropped to one knee and scratched at the ground, then lifted his hand to his nose, sniffing.
+> 卡兰没有理会他，怀疑地眯起眼睛。  
+> Kalan ignored him, eyes narrowed.
+>
+> 他单膝跪下，在地上抓了几下，然后拿到鼻子前闻了闻。  
+> He dropped to one knee and scratched at the ground, then lifted his hand to his nose, sniffing.
 
-“如果他们还在这里，大人，一定躲不了太久，”那位军官说道，显然他对长官的沉默感到不舒服。“不过，我猜他们已经逃出很远了。”
-“If they are still here, lord, we’ll find them,” said the officer, clearly uncomfortable with his superior’s silence. “I’d guess they are long gone, though.”
+> “如果他们还在这里，大人，一定躲不了太久，”那位军官说道，显然他对长官的沉默感到不舒服。  
+> “If they are still here, lord, we’ll find them,” said the officer, clearly uncomfortable with his superior’s silence.
+>
+> “不过，我猜他们已经逃出很远了。”  
+> “I’d guess they are long gone, though.”
 
-卡兰站起来，沿着码头看向海洋的另一侧，看向高耸的城墙。
-Kalan stood, and looked back along the dock, away from the sea, towards the towering walls.
+> 卡兰站起来，沿着码头看向海洋的另一侧，看向高耸的城墙。  
+> Kalan stood, and looked back along the dock, away from the sea, towards the towering walls.
 
-“懦弱之举，”那名军官评价道。“他们知道攻城战打不赢我们，所以他们只能用其他方式伤害我们。但我们不会善罢甘休！我们是诺克萨斯！我们——”
-“A cowardly act,” the officer remarked. “They know they can’t take us in a siege, so they try to hurt us in other ways. But we will not be deterred! We are Noxus! We—”
+> “懦弱之举，”那名军官评价道。  
+> “A cowardly act,” the officer remarked.
+>
+> “他们知道攻城战打不赢我们，所以他们只能用其他方式伤害我们。  
+> “They know they can’t take us in a siege, so they try to hurt us in other ways.
+>
+> 但我们不会善罢甘休！我们是诺克萨斯！我们——”  
+> But we will not be deterred! We are Noxus! We—”
 
-“安静，”卡兰吼道。他终于正眼看了那名军官，他黄色的双眼一下不眨。那个人在他的凝视下面色煞白，似乎身体也变矮小了，就如同一只蟾蜍缩回自己的土洞。“炸的是火焰石，不是黑火药。而且他们就在这里。这不是懦弱之举。”
-“Be silent,” growled Kalan. He was looking at the officer for the first time now, his yellow eyes unblinking. The man paled under his gaze, and seemed to shrink a little, like a toad retreating into its hole. “It was fyrestone, not blackpowder. And they are still here. This was not an act of cowards.”
+> “安静，”卡兰吼道。  
+> “Be silent,” growled Kalan.
+>
+> 他终于正眼看了那名军官，他黄色的双眼一下不眨。  
+> He was looking at the officer for the first time now, his yellow eyes unblinking.
+>
+> 那个人在他的凝视下面色煞白，似乎身体也变矮小了，就如同一只蟾蜍缩回自己的土洞。  
+> The man paled under his gaze, and seemed to shrink a little, like a toad retreating into its hole.
+>
+> “炸的是火焰石，不是黑火药。而且他们就在这里。这不是懦弱之举。”  
+> “It was fyrestone, not blackpowder. And they are still here. This was not an act of cowards.”
 
-那名军官大气都不敢喘。“不是啊？”他鼓足勇气挤出几个字，音量还不如老鼠叫。
-The officer gaped silently, like a landed fish. “No?” he managed, finally, his voice little more than a squeak.
+> 那名军官大气都不敢喘。  
+> The officer gaped silently, like a landed fish.
+>
+> “不是啊？”他鼓足勇气挤出几个字，音量还不如老鼠叫。  
+> “No?” he managed, finally, his voice little more than a squeak.
 
-“不是。”卡兰扭过头，向着斐洛尔要塞大步返回。“这是声东击西。”
-“No.” Kalan swung away from him, and strode back towards the fortress of Fae’lor. “This is a distraction.”
+> “不是。”卡兰扭过头，向着斐洛尔要塞大步返回。  
+> “No.” Kalan swung away from him, and strode back towards the fortress of Fae’lor.
+>
+> “这是声东击西。”  
+> “This is a distraction.”
 
-卡兰火冒三丈。他待会再和这个蠢货算账。现在，他需要关注一件更重要的事。
-Kalan seethed. He would deal with that fool later. Right now, he had something far more important to focus on.
+> 卡兰火冒三丈。  
+> Kalan seethed.
+>
+> 他待会再和这个蠢货算账。  
+> He would deal with that fool later.
+>
+> 现在，他需要关注一件更重要的事。  
+> Right now, he had something far more important to focus on.
 
-“他们的目标是幻梦池。”他怒吼道。
-“They are going for the Dreaming Pool,” he snarled.
+> “他们的目标是幻梦池。”他怒吼道。  
+> “They are going for the Dreaming Pool,” he snarled.
+
 #### 05
-希里克用手捂住这名诺克萨斯人的嘴，直到他停止挣扎，然后将他死沉沉的尸体放到地上。她用他的外套把自己血淋淋的匕首擦干，用余光看到她的弟弟和其他人处理了其他诺克萨斯人，清空了这座塔楼的底层。
-Sirik kept her hand clamped across the Noxian’s mouth until his struggles ceased, then dropped his lifeless body to the ground. She wiped her bloody dagger clean on his tunic and glanced around to see her brother and the others deal with the remaining Noxians within the lower level of the tower.
+希里克用手捂住这名诺克萨斯人的嘴，直到他停止挣扎，然后将他死沉沉的尸体放到地上。
+Sirik kept her hand clamped across the Noxian’s mouth until his struggles ceased, then dropped his lifeless body to the ground.
+她用他的外套把自己血淋淋的匕首擦干，用余光看到她的弟弟和其他人处理了其他诺克萨斯人，清空了这座塔楼的底层。
+She wiped her bloody dagger clean on his tunic and glanced around to see her brother and the others deal with the remaining Noxians within the lower level of the tower.
 
-他们现在已经很接近了。前方庭院的另一侧，一座山崖伸向夜空，希里克的目光瞄向顶峰。一座突兀的建筑挡在星空中，那里便是他们的目标。
-They were close, now. A rocky bluff reached up to the night sky in the courtyard beyond their position, and Sirik’s eyes were drawn to its peak. A jutting structure, blotting out the stars, marked their target.
+他们现在已经很接近了。
+They were close, now.
+前方庭院的另一侧，一座山崖伸向夜空，希里克的目光瞄向顶峰。
+A rocky bluff reached up to the night sky in the courtyard beyond their position, and Sirik’s eyes were drawn to its peak.
+一座突兀的建筑挡在星空中，那里便是他们的目标。
+A jutting structure, blotting out the stars, marked their target.
 
 警钟依然在轰鸣，传遍整个斐洛尔。
 Tolling bells were sounding the alarm, echoing all across Fae’lor.
 
-希里克带头走到庭院中间，离开高塔，开始向悬崖边凿刻的石阶奔跑。她现在已经不在乎是否会被看到了。诡计的时机已经过去。此刻速度才是最好的朋友。
-Sirik led the way out into the courtyard, breaking from the tower and sprinting towards the stone steps carved into the bluff. She didn’t care who saw them now. The time for subterfuge was passed. Now speed was the best ally.
+希里克带头走到庭院中间，离开高塔，开始向悬崖边凿刻的石阶奔跑。
+Sirik led the way out into the courtyard, breaking from the tower and sprinting towards the stone steps carved into the bluff.
+她现在已经不在乎是否会被看到了。诡计的时机已经过去。此刻速度才是最好的朋友。
+She didn’t care who saw them now. The time for subterfuge was passed. Now speed was the best ally.
 
-他们头顶上传来喊叫声，箭矢追着空地上冲刺的艾欧尼亚人。无一命中，全都打在他们脚边的鹅卵石地面上。几名卫兵从附近的门后冲出，前来阻截他们。希里克和同伴们丝毫没有停下脚步，他们抽出武器，弯刀、忍镰、毒镖和铁扇。一下心跳的功夫，他们已经突入诺克萨斯人中间，或滑铲、或空翻，同时给与夺命重击，像跳舞一般突入敌阵。
-Shouts erupted from above, and arrows chased the Ionians as they darted across the open space. None hit home, skidding off the cobbled stone at their feet. A handful of guards emerged from a nearby gate, rushing to intercept them. Sirik and her companions didn’t even slow as they drew weapons; curved swords, sickles, poisoned darts and bladed fans. In a heartbeat they were among the Noxians, sliding under and somersaulting over heavy blows, dancing through them, blades wreaking a bloody toll.
+他们头顶上传来喊叫声，箭矢追着空地上冲刺的艾欧尼亚人。
+Shouts erupted from above, and arrows chased the Ionians as they darted across the open space.
+无一命中，全都打在他们脚边的鹅卵石地面上。
+None hit home, skidding off the cobbled stone at their feet.
+几名卫兵从附近的门后冲出，前来阻截他们。
+A handful of guards emerged from a nearby gate, rushing to intercept them.
+希里克和同伴们丝毫没有停下脚步，他们抽出武器，弯刀、忍镰、毒镖和铁扇。
+Sirik and her companions didn’t even slow as they drew weapons; curved swords, sickles, poisoned darts and bladed fans.
+一下心跳的功夫，他们已经突入诺克萨斯人中间，或滑铲、或空翻，同时给与夺命重击，像跳舞一般突入敌阵。
+In a heartbeat they were among the Noxians, sliding under and somersaulting over heavy blows, dancing through them, blades wreaking a bloody toll.
 
-艾欧尼亚人遭受了首个牺牲，一个人被长戟砍中了脖子。希里克将刹那的哀伤压了回去，继续向前推进，和弟弟并肩冲破了敌阵，留下数个血泊中的诺克萨斯人。
-The first of the Ionians fell, then, hacked down by a heavy halberd blow to the neck. Sirik pushed her instant pang of grief within, and pushed on, breaking through the enemy with her brother at her side, leaving a handful of them bleeding in their wake.
+艾欧尼亚人遭受了首个牺牲，一个人被长戟砍中了脖子。
+The first of the Ionians fell, then, hacked down by a heavy halberd blow to the neck.
+希里克将刹那的哀伤压了回去，继续向前推进，和弟弟并肩冲破了敌阵，留下数个血泊中的诺克萨斯人。
+Sirik pushed her instant pang of grief within, and pushed on, breaking through the enemy with her brother at her side, leaving a handful of them bleeding in their wake.
 
-他们到达了坑洼不平的石阶——这些石阶经历的风雨沧桑远多于要塞本身。他们向上冲刺，一步三个台阶。石阶两侧的许愿灯笼全都是黑的。
-They reached the carved, uneven steps—far older than the fortress itself—and began sprinting up, toward the peak, taking the stairs three at a time. Votive lanterns carved into the rock on either side of the stairs remained dark.
+他们到达了坑洼不平的石阶——这些石阶经历的风雨沧桑远多于要塞本身。
+They reached the carved, uneven steps—far older than the fortress itself
+他们向上冲刺，一步三个台阶。
+—and began sprinting up, toward the peak, taking the stairs three at a time.
+石阶两侧的许愿灯笼全都是黑的。
+Votive lanterns carved into the rock on either side of the stairs remained dark.
 
 在诺克萨斯占领这个圣所之前，这些灯笼始终长明，昼夜不熄。
 Before Noxus had taken this holy place, those would never have remained unlit, day or night.
 
-又一名艾欧尼亚人倒下了，两根箭矢重重地插入他的胸膛。他没发出任何声音，从傍崖的石阶路上翻身落下，摔在下面的庭院里。其余的艾欧尼亚人继续沿着螺旋攀升的石阶向顶端冲刺。又有更多箭矢打在他们身边的崖壁上，所幸的是她没有同伴再被击中。
-Another Ionian fell, two arrows thudding into his chest. Without a sound, he toppled from the path, falling to the courtyard below. On and on, the remaining Ionians ran, climbing the spiralling path encircling the stone bluff towards its peak. More arrows clattered against the rock wall beside them, but thankfully no more of her companions were struck.
+又一名艾欧尼亚人倒下了，两根箭矢重重地插入他的胸膛。
+Another Ionian fell, two arrows thudding into his chest.
+他没发出任何声音，从傍崖的石阶路上翻身落下，摔在下面的庭院里。
+Without a sound, he toppled from the path, falling to the courtyard below.
+其余的艾欧尼亚人继续沿着螺旋攀升的石阶向顶端冲刺。
+On and on, the remaining Ionians ran, climbing the spiralling path encircling the stone bluff towards its peak.
+又有更多箭矢打在他们身边的崖壁上，所幸的是她没有同伴再被击中。
+More arrows clattered against the rock wall beside them, but thankfully no more of her companions were struck.
 
-他们急速绕上弧形的阶梯。金属的寒光一闪而过，迹象虽然微小，但依然引起了希里克的警觉，让她本能地飞身翻滚。一根重矛，被巨大的力量掷出，与她相隔几寸距离擦身而过，击中了她身后的同伴。长矛穿胸而过，他整个身体都被带飞到半空，跌下悬崖。
-They rounded the curve at speed. A flash of metal in the night was all the warning Sirik had, and she threw herself instinctively into a roll. A heavy spear, thrown with great force, sliced scant inches over her to strike one of her companions behind. It took him in the chest and lifted him off his feet, hurling him off the bluff.
+他们急速绕上弧形的阶梯。
+They rounded the curve at speed.
+金属的寒光一闪而过，迹象虽然微小，但依然引起了希里克的警觉，让她本能地飞身翻滚。
+A flash of metal in the night was all the warning Sirik had, and she threw herself instinctively into a roll.
+一根重矛，被巨大的力量掷出，与她相隔几寸距离擦身而过，击中了她身后的同伴。
+A heavy spear, thrown with great force, sliced scant inches over her to strike one of her companions behind.
+长矛穿胸而过，他整个身体都被带飞到半空，跌下悬崖。
+It took him in the chest and lifted him off his feet, hurling him off the bluff.
 
-两名守卫站在悬崖顶端的神庙入口处严阵以待。两个人都肌肉健硕，身穿黑色重甲，一手擎着巨盾，另一手紧握锯齿切肉斧。
-Two guards stood before the entrance to the shrine at the top of the bluff. Both were immense slabs of muscle and heavy black armor, with huge shields and heavy, jagged cleavers clutched in their brutish fists.
+两名守卫站在悬崖顶端的神庙入口处严阵以待。
+Two guards stood before the entrance to the shrine at the top of the bluff.
+两个人都肌肉健硕，身穿黑色重甲，一手擎着巨盾，另一手紧握锯齿切肉斧。
+Both were immense slabs of muscle and heavy black armor, with huge shields and heavy, jagged cleavers clutched in their brutish fists.
 
 剩余的留个艾欧尼亚人整齐划一地出击，冲刺、飞扑、空翻着迎击两个魁梧的诺克萨斯人，刀光剑影、杀气腾腾。
 The six remaining Ionians attacked as one, sprinting, leaping and somersaulting towards the towering Noxians, blades glinting.
 
-希里克利用运动中的速度，跑上了悬崖的立面，飞奔两步以后向前跨越，双手中的短刀寻向卫兵的脖颈，与此同时她的弟弟则攻向下盘。奥金翻滚着避开诺克萨斯人的横扫，反手划破对手的一条腿，让对手踉跄失衡。希里克像一根长枪一样刺破空气，双刀当先，在那个诺克萨斯人厚重的脖颈上切开两道深沟。
-Moving at speed, Sirik ran up onto the side of the bluff, taking two steps across its vertical surface before leaping off, her short blades seeking the neck of the first guard, even as her brother attacked low. Okin rolled under a heavy swinging blow and came up behind the Noxian, slashing a backhanded blow across his foe’s leg, making him stumble. Sirik speared through the air, leading with her blades, carving a pair of deep furrows through the solid meat of the Noxian’s neck.
+希里克利用运动中的速度，跑上了悬崖的立面，飞奔两步以后向前跨越，双手中的短刀寻向卫兵的脖颈，与此同时她的弟弟则攻向下盘。
+Moving at speed, Sirik ran up onto the side of the bluff, taking two steps across its vertical surface before leaping off, her short blades seeking the neck of the first guard, even as her brother attacked low.
+奥金翻滚着避开诺克萨斯人的横扫，反手划破对手的一条腿，让对手踉跄失衡。
+Okin rolled under a heavy swinging blow and came up behind the Noxian, slashing a backhanded blow across his foe’s leg, making him stumble.
+希里克像一根长枪一样刺破空气，双刀当先，在那个诺克萨斯人厚重的脖颈上切开两道深沟。
+Sirik speared through the air, leading with her blades, carving a pair of deep furrows through the solid meat of the Noxian’s neck.
 
-但他并没有立刻倒下。希里克轻巧落地，身体蹲伏，一只手扶地保持平衡，那名战士咆哮着用塔盾的正面将一名艾欧尼亚无告者撞翻在地。还没等希里克再次出手，那名野蛮的战士就用盾缘切向她伙伴的脖子，一击毙命。
-Still, he did not fall, and as Sirik landed lightly in a low crouch, one hand touching the ground for balance, the injured warrior roared and smashed one of the dispossessed Ionians to the ground with the flat of his tower shield. Before Sirik could intervene, the brute slammed the ridge of that shield down onto her fallen comrade’s neck, killing him instantly.
+但他并没有立刻倒下。
+Still, he did not fall,
+希里克轻巧落地，身体蹲伏，一只手扶地保持平衡，那名战士咆哮着用塔盾的正面将一名艾欧尼亚无告者撞翻在地。
+and as Sirik landed lightly in a low crouch, one hand touching the ground for balance, the injured warrior roared and smashed one of the dispossessed Ionians to the ground with the flat of his tower shield.
+还没等希里克再次出手，那名野蛮的战士就用盾缘切向她伙伴的脖子，一击毙命。
+Before Sirik could intervene, the brute slammed the ridge of that shield down onto her fallen comrade’s neck, killing him instantly.
 
-另一名诺克萨斯战士也同样棘手，她像一头受伤的公牛一样怒吼着，疯狂地甩打，但实际上她的致命伤口一直在流血，换成普通人应该早就死了。
-The other Noxian was proving equally difficult to put down, bellowing like a wounded bull and flailing about wildly, even as she bled from wounds that would have killed most, lesser individuals.
+另一名诺克萨斯战士也同样棘手，她像一头受伤的公牛一样怒吼着，疯狂地甩打，
+The other Noxian was proving equally difficult to put down, bellowing like a wounded bull and flailing about wildly,
+但实际上她的致命伤口一直在流血，换成普通人应该早就死了。
+even as she bled from wounds that would have killed most, lesser individuals.
 
-奥金在她厚重胸甲的侧面找到破绽，砍断了诺克萨斯人的肋骨，然后立刻跳到一旁，躲开了反击。希里克看准时机冲上前，又补了一刀，而当敌人向她的方向砍来，另一个同伴再度见缝插针，从背后命中了那个诺克萨斯人。他们就像无情的群狼围攻大型猎物，最后那名诺克萨斯女战士终于跪倒在地，鲜血流了一地。她的上半身继续保持直立了一段时间，吐出几句咒骂，然后趴到了地上一动不动。
-Okin hacked into the Noxian’s ribs, just to the side of her heavy breastplate, and danced aside as his enemy turned on him. Sirik darted in then, landing another strike, and as her enemy swung in her direction, another of her companions did likewise, hitting the Noxian from behind. They fought like a pack mercilessly taking down large prey, and at last the other Noxian dropped to her knees, lifeblood leaking out onto the stones. She stayed upright for a moment more, spitting curses, then fell facedown and was still.
+奥金在她厚重胸甲的侧面找到破绽，砍断了诺克萨斯人的肋骨，然后立刻跳到一旁，躲开了反击。
+希里克看准时机冲上前，又补了一刀，而当敌人向她的方向砍来，另一个同伴再度见缝插针，从背后命中了那个诺克萨斯人。
+他们就像无情的群狼围攻大型猎物，最后那名诺克萨斯女战士终于跪倒在地，鲜血流了一地。
+她的上半身继续保持直立了一段时间，吐出几句咒骂，然后趴到了地上一动不动。
+Okin hacked into the Noxian’s ribs, just to the side of her heavy breastplate, and danced aside as his enemy turned on him.
+Sirik darted in then, landing another strike, and as her enemy swung in her direction, another of her companions did likewise, hitting the Noxian from behind.
+They fought like a pack mercilessly taking down large prey, and at last the other Noxian dropped to her knees, lifeblood leaking out onto the stones.
+She stayed upright for a moment more, spitting curses, then fell facedown and was still.
 
-她的同伴悲愤交加地咆哮一声，手里的切肉斧一记野蛮的挥砍，击倒了一名无告者。然后他跑向倒在地上的伙伴，跪在地上用巨大的臂膀将她拥入怀抱。他已斗志全无，对着夜空发出一声惨烈、痛苦的哀嚎。
-Her companion roared in grief and anger, and hacked one of the dispossessed down with a brutal sweep of his cleaver. Then he ran to his fallen comrade, dropping to his knees and cradling her in his huge arms. All the fight had gone out of him, and he let out a terrible, anguished wail to the night sky.
+她的同伴悲愤交加地咆哮一声，手里的切肉斧一记野蛮的挥砍，击倒了一名无告者。
+然后他跑向倒在地上的伙伴，跪在地上用巨大的臂膀将她拥入怀抱。
+他已斗志全无，对着夜空发出一声惨烈、痛苦的哀嚎。
+Her companion roared in grief and anger, and hacked one of the dispossessed down with a brutal sweep of his cleaver.
+Then he ran to his fallen comrade, dropping to his knees and cradling her in his huge arms.
+All the fight had gone out of him, and he let out a terrible, anguished wail to the night sky.
 
-奥金和其他人围上来准备进行最后一击，但希里克摇了摇头。“别管他了，”他说道。“正事要紧。”
-Okin and the others encircled him to land the killing blow, but Sirik shook her head. “Leave him be,” she said. “Come. Let’s finish this.”
+奥金和其他人围上来准备进行最后一击，但希里克摇了摇头。
+“别管他了，”他说道。“正事要紧。”
+Okin and the others encircled him to land the killing blow, but Sirik shook her head.
+“Leave him be,” she said. “Come. Let’s finish this.”
 
-那个诺克萨斯人听不懂她说的话，但却听出了她的意图。他抬起满是忧伤的双眼，重新站了起来，捡起武器。然后他发出最后的战吼，向希里克冲了过来。他没走几步就被砍倒在地——可能这正是他所期望的。然后他倒在另一名诺克萨斯人身边，用最后的力气把手伸向她，彻底咽了气。
-The Noxian didn’t understand her words, but recognized their intent. He looked up with grief-filled eyes, and regained his feet, picking up his blade. Then, with a cry, he launched himself at Sirik. He was cut down before he went more than a few steps—as he’d likely expected—and he dropped beside the other Noxian. With his last breath, he reached out to her, then went limp.
+那个诺克萨斯人听不懂她说的话，但却听出了她的意图。
+他抬起满是忧伤的双眼，重新站了起来，捡起武器。
+然后他发出最后的战吼，向希里克冲了过来。
+他没走几步就被砍倒在地——可能这正是他所期望的。
+然后他倒在另一名诺克萨斯人身边，用最后的力气把手伸向她，彻底咽了气。
+The Noxian didn’t understand her words, but recognized their intent.
+He looked up with grief-filled eyes, and regained his feet, picking up his blade.
+Then, with a cry, he launched himself at Sirik.
+He was cut down before he went more than a few steps—as he’d likely expected—and he dropped beside the other Noxian.
+With his last breath, he reached out to her, then went limp.
 
-虽然身为敌人，但他的死让希里克感到悲哀。他们两个是亲人？情侣？还是朋友？她深吸一口气，将这些情感推到一边，继续专心完成这次的任务。
-His death saddened Sirik, for all that he was an enemy. Were they kin, these two? Lovers? Friends? With a deep breath, she pushed those feelings aside, so as to focus on the task at hand.
+虽然身为敌人，但他的死让希里克感到悲哀。
+他们两个是亲人？情侣？还是朋友？
+她深吸一口气，将这些情感推到一边，继续专心完成这次的任务。
+His death saddened Sirik, for all that he was an enemy.
+Were they kin, these two? Lovers? Friends?
+With a deep breath, she pushed those feelings aside, so as to focus on the task at hand.
 
 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为达尔耶·阿希拉——幻梦池。
 With a silent nod, she led the four remaining dispossessed Ionians into the shrine known to her people as the Dael’eh Ahira—the Dreaming Pool.
