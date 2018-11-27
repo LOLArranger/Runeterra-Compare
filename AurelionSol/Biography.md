@@ -15,8 +15,7 @@
 > Desiring a return to his star-forging ways, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom.  
 
 #### 目录 Catalog
-> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05)  
-> [06](#06) | [07](#07) | [08](#08)  
+> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08)  
 
 #### 01
 > **奥瑞利安•索尔**`(Aurelion Sol)`曾创造了奇迹般的**群星**`(celestial wonders)`，为无垠的荒芜**太空**`(cosmos)`布下他宏伟的恩典。  
