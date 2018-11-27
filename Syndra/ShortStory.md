@@ -1,4 +1,4 @@
-# 幻梦池 THE DREAMING POOL
+# 幻梦池 The Dreaming Pool
 > 作者 Author: Anthony Reynolds  
 > 相关英雄 Related Champion: 辛德拉(Syndra)  
 
