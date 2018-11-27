@@ -1,4 +1,4 @@
-# 万花通灵 妮蔻 | The Curious Chameleon
+# 万花通灵 妮蔻 | The Curious Chameleon Neeko
 
 #### 引述 Quote
 > 雾尾族已经没了。妮蔻要自己弄一个新的部落，现在就要。  
@@ -22,26 +22,26 @@
 > [11](#11) | [12](#12) | [13](#13) | [14](#14) | [15](#15) | [16](#16)  
 
 #### 01
-> 妮蔻出生的地方是一个远在东方的神秘岛屿。  
+> **妮蔻**`Neeko`出生的地方是一个远在东方的神秘岛屿。  
 > Neeko was born on a remote and largely unknown island, far to the east,  
 >
 > 一个古老的瓦斯塔亚部落的末代族裔在岛上隐居世外。  
-> where the last members of an ancient vastayan tribe remained isolated from the rest of the world.  
+> where the last members of an ancient vastayan **tribe**`tribe` remained isolated from the rest of the world.  
 >
-> 他们被称为雾尾族。  
+> 他们被称为**雾尾**`Oovi-Kat`族。  
 > They were called the Oovi-Kat,  
 >
-> 这个部落的谱系可以一直上溯到传说中的瓦斯塔亚霞瑞——所有瓦斯塔亚的祖先。  
+> 这个部落的谱系可以一直上溯到传说中的**瓦斯塔亚霞瑞**`Vastayashai’rei`——所有**瓦斯塔亚**`Vastaya`的祖先。  
 > and could trace their lineage generation by generation back to the legendary Vastayashai’rei—the ancestors of all vastaya.  
 
 #### 02
 > 雾尾族热爱和平，但同时身怀无与伦比的潜能。  
 > The Oovi-Kat were peaceful beings, of unrivaled potential.  
 >
-> 整个部落与精神领域完美地谐调，所以他们的“烁玛”——也就是灵魂——  
+> 整个部落与**精神领域**`the spirit realm`完美地谐调，所以他们的**“烁玛”**`sho’ma`——也就是**灵魂**`spiritual essence`——  
 > Their harmonious society blended seamlessly with the spirit realm, so that their sho’ma—their spiritual essence—  
 >
-> 可以与周遭的生物相融，甚至让他们可以模拟出相应的外形。  
+> 可以与周遭的生物相融，甚至让他们可以模拟出相应的**外形**`physical forms`。  
 > could intermingle with other beings through mere proximity, and even help them mimic other physical forms.  
 >
 > 雾尾族族人之间不存在任何秘密，但是少有人像年少的妮蔻那样善于适应、充满好奇而且活力四射。  
@@ -68,7 +68,7 @@
 > 她笨拙地化成一只鸟的模样，甩下了身后的熊熊烈火。  
 > She clumsily took the form of a bird, and fled the smoldering destruction,  
 >
-> 族人们的尖叫缓缓淡去，沉入了两个领域之间的鸿沟深处。  
+> 族人们的尖叫缓缓淡去，沉入了**两个领域之间的鸿沟深处**`the ethereal gulf between realms`。  
 > feeling the screams of her people fading into the ethereal gulf between realms.  
 
 #### 06
@@ -82,7 +82,7 @@
 > She could hear voices carrying over the waves, and so she swam toward the strange structure.  
 
 #### 07
-> 当她拼尽了最后一丝力气，终于爬上了甲板，才发现这是一艘开往哈雷尔港的商船。  
+> 当她拼尽了最后一丝力气，终于爬上了甲板，才发现这是一艘开往**哈雷尔港**`Harelport`的商船。  
 > With the last of her strength, she crept aboard what turned out to be a mercantile vessel destined for Harelport.  
 >
 > 妮蔻找了个角落安顿下来，试着在精神领域中呼唤自己的同胞。  
@@ -105,7 +105,7 @@
 > This was a place of countless stories and experiences, and it entranced her completely.  
 
 #### 09
-> 还没等她走出多远，一个名叫科雷特的瓦斯塔亚水手就发现了她。  
+> 还没等她走出多远，一个名叫**科雷特**`Krete`的瓦斯塔亚水手就发现了她。  
 > Before she could get far, she was spotted by a vastayan sailor named Krete.  
 >
 > 妮蔻不能完全听懂他的话，但是他执意要搞清楚妮蔻属于哪个部落。  
@@ -118,7 +118,7 @@
 > but Krete did not seem to like this at all. Overwhelmed by his darkening thoughts, Neeko fled into the crowd, altering her shape many times until she escaped.  
 
 #### 10
-> 出了哈雷尔港，妮蔻就到了内陆。身处热带的繁盛密林之中，妮蔻认真地揣摩着刚刚发生的事情。  
+> 出了哈雷尔港，妮蔻就到了内陆`the hinterlands beyond Harelport`。身处**热带的繁盛密林**`tropical greenery`之中，妮蔻认真地揣摩着刚刚发生的事情。  
 > Surrounded by lush, tropical greenery in the hinterlands beyond Harelport, Neeko grappled with her recent experiences.  
 >
 > 她根本想不明白为什么人们的沟通方式只能单纯地依赖语言。  
@@ -128,7 +128,7 @@
 > It seemed so… limiting?  
 
 #### 11
-> 为了安慰自己，她把自己变成了一只丛林野猫，和这些在树丛里新遇见的“同类”一同奔跑起来。  
+> 为了安慰自己，她把自己变成了一只**丛林野猫**`jungle cat`，和这些在树丛里新遇见的“同类”一同奔跑起来。  
 > Seeking solace, she took on the shape of the sleek jungle cats she encountered among the trees, and tried to run with them.  
 >
 > 妮蔻喜欢这种灵活迅捷的感觉，而且它们的眼睛明亮又锐利，让她想起了自己的家乡。  
@@ -137,7 +137,7 @@
 > 突然，领头的野猫变身成了一个漂亮又强壮的黑发女人。  
 > quite unexpectedly, the leader transformed into a beautiful, strong, dark-haired woman.  
 >
-> 紧张的对峙之后，她说自己叫奈德丽，并不太情愿地接纳了妮蔻。  
+> 紧张的对峙之后，她说自己叫**奈德丽**`Nidalee`，并不太情愿地接纳了妮蔻。  
 > After a tense standoff, she introduced herself as Nidalee, and reluctantly accepted Neeko into the group.  
 
 #### 12
@@ -160,7 +160,7 @@
 > 树木需要色彩，再次繁盛起来——妮蔻很确定这一点。  
 > The trees needed color, to bloom again—of that much, Neeko was certain.  
 >
-> 她希望自己的新朋友能够陪她一起回去，可是奈德丽固执地拒绝了。  
+> 她希望自己的新朋友能够陪她一起回去，可是奈德丽**固执地**$could not be?$拒绝了。  
 > She asked her friend to join her on this new journey, but Nidalee could not be persuaded.  
 
 #### 14
@@ -171,7 +171,7 @@
 > 与雾尾族人一道生活的时光也许已经一去不返，但是妮蔻却忍不住幻想一个近乎魔幻的未来——  
 > Her old life among the Oovi-Kat may be lost forever, but Neeko envisions a magical future—  
 >
-> 心灵相近的瓦斯塔亚人、约德尔人、人类还有任何愿意做同一个梦的生物组成了一个更为庞大的部族。  
+> 心灵相近的瓦斯塔亚人、**约德尔人**`yordle`、人类还有任何愿意做同一个梦的生物组成了一个更为庞大的部族。  
 > a larger tribe of like-hearted vastaya, yordles, humans, and whatever other creatures might share her dream.  
 >
 > 在她的想法里，每个人都有可能在这个新的部族里找到自己的位置。  

@@ -1,4 +1,4 @@
-# 奥瑞利安·索尔 | Aurelion Sol
+# 奥瑞利安·索尔 | THE Star Forger Aurelion Sol
 
 #### 引述 Quote
 > 瑟缩，崇拜，惊叹。人之常态，概莫能外。  
