@@ -353,7 +353,7 @@
 > 她闭上双眼，让心中的随想静默下来。  
 > She closed her eyes and silenced her inner thoughts.  
 >
-> 她睁开**心灵之眼**`(mind’s eye)`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴**进**`[近?]`水晶，将其煽动活跃。  
+> 她睁开**心灵之眼**`(mind’s eye)`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴~~进~~`近?`水晶，将其煽动活跃。  
 > In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.  
 
 > 她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。  
@@ -686,7 +686,7 @@
 > 他们来到了达尔耶·阿希拉的最深处，最后的十尺是崎岖的石块，他们顺势滑下，落在下方的浅水池中激起一片水花。  
 > They reached the deepest point of the Dael’eh Ahira, finally, sliding down the uneven rocks the final ten feet, and landed with a splash in the shallow waters below.  
 
-> 这处神圣`[场+?]`所曾是一道美景，但许多年前的灾难让这里成为地下深处的洞穴。  
+> 这处神圣<u>场</u>所曾是一道美景，但许多年前的灾难让这里成为地下深处的洞穴。  
 > Once, this shrine had been beautiful, but disaster had brought the cavern down in years past.  
 
 > 这里禁锢着的人，就是他们长年守卫的人。  
@@ -1217,7 +1217,7 @@
 > “我们都是艾欧尼亚的孩子！”  
 > “We are both children of Ionia! ***Join us***!”  
 
-> 辛德拉俯视着**她**`[him?]`，目光中辐射出力量。  
+> 辛德拉俯视着~~她~~`him`，目光中辐射出力量。  
 > Syndra looked down upon ***him***, her gaze radiating power.  
 
 > “诺克萨斯人袭击了我们的土地，屠杀了我们的人民！”他继续说。  

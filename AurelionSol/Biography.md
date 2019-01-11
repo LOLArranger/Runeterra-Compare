@@ -1,10 +1,11 @@
-# 奥瑞利安·索尔 | THE Star Forger Aurelion Sol
+# \<铸星龙王\> 奥瑞利安·索尔
+### \<The Star Forger\> Aurelion Sol
 
-#### 引述 Quote
+#### 引述 Quote by 奥瑞利安·索尔 (Aurelion Sol)
 > 瑟缩，崇拜，惊叹。人之常态，概莫能外。  
 > Cower. Worship. Marvel. They are all appropriate responses.  
 
-#### 简介 Summary
+#### 简介 Short
 > 奥瑞利安•索尔曾创造了奇迹般的群星，为无垠的荒芜太空布下他宏伟的恩典。  
 > Aurelion Sol once graced the vast emptiness of the cosmos with celestial wonders of his own devising.  
 >
@@ -42,8 +43,8 @@
 > 自从降生于**太息之初**`(first breath of creation)`，他便在无垠的**空无**`(vast nothingness)`中遨游，寻觅着散落于广袤深空中可称奇伟的光华，渲染他亘古凭飞的漫卷长天。  
 > Born in the first breath of creation, he roamed the vast nothingness, seeking to fill a canvas of incalculable breadth with marvels whose twinkling spectra brought him considerable delight and pride.  
 #### 04
-> 正如星空之龙来自天外，奥瑞利安•索尔**从未**`[seldom?]`遇见过任何能与之比肩的存在。  
-> A celestial dragon is an ***exotic creature***`(外来生物)`, and as such, Aurelion Sol ***seldom*** encountered any equals.  
+> 正如星空之龙来自天外，奥瑞利安•索尔~~从未~~`seldom`遇见过任何能与之比肩的存在。  
+> A celestial dragon is an ***exotic creature***`(外来生物)`, and as such, Aurelion Sol **seldom** encountered any equals.  
 
 > 随着宇宙渐渐繁盛，众多鸿蒙初开的意识开始仰望天穹，惊奇于他的创造，陷入了屏息凝神的思索。  
 > As more forms of life emerged to fill the universe, a multitude of primitive eyes gazed up and beheld his work with wonder and breathless pondering.  

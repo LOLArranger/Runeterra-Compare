@@ -1,10 +1,11 @@
-# 暗黑元首 辛德拉 | The Dark Sovereign Syndra
+# \<暗黑元首\> 辛德拉
+### \<The Dark Sovereign\> Syndra
 
-#### 引述 Quote
+#### 引述 Quote by 辛德拉 (Syndra)
 > 我的潜能无穷无尽。休想压住我。  
 > My potential is limitless. I will not be restrained.  
 
-#### 简介 Summary
+#### 简介 Short
 > 辛德拉是一位令人胆寒的艾欧尼亚魔法师，操纵着难以置信的力量。  
 > Syndra is a fearsome ***Ionian mage*** with incredible power at her command.  
 >
@@ -76,7 +77,7 @@
 > 他说起了他在**斐洛岛**`(the island of Fae’lor)`上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。  
 > He spoke of his home on the island of Fae’lor, where he taught those who wished to learn to control their wild magic, and Syndra’s family could see no other option—perhaps he could succeed where they had not.  
 
-> 于是年轻的辛德拉爬上一座悬崖边的神庙，**伴着**`[crafted?]`漆黑古老的砖石，默默守望着大海。  
+> 于是年轻的辛德拉爬上一座悬崖边的神庙，~~伴着~~`crafted`漆黑古老的砖石，默默守望着大海。  
 > Young Syndra climbed the steps to a cliffside temple, ***crafted*** long ago from dark stone, and overlooking the sea.  
 
 > 虽然她怀念自己以前的生活，但她还是努力吸收着老师的智慧，全力投入对自己情绪的掌控。  
@@ -103,7 +104,7 @@
 > 辛德拉从地面上站起来，心中激荡着沮丧。  
 > Syndra rose from the floor, as her frustrations surged within her.  
 
-> 她从空中攫取黑暗法球，用它们洞穿导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
+> 她从空中攫取黑暗法球，用它们**洞穿**`<through>`导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
 > She snatched dark orbs from the air, and cast them through her mentor’s body, forcing him to feel all of her bitter outrage as he died.  
 #### 10
 > 顶盖不复再，碎石如雨下，花园圣所被尘土埋葬。  
