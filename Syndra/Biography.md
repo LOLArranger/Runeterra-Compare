@@ -1,5 +1,8 @@
-# \<暗黑元首\> 辛德拉
-### \<The Dark Sovereign\> Syndra
+● Runeterra Compare  
+***
+
+# &lt;暗黑元首&gt; 辛德拉
+### &lt;The Dark Sovereign&gt; Syndra
 
 #### 引述 Quote by 辛德拉 (Syndra)
 > 我的潜能无穷无尽。休想压住我。  
@@ -139,3 +142,9 @@
 #### 14
 > 她不要再被控制。永远不。  
 > She would not be controlled. Not ever again.  
+
+***
+● github.com/LOLArranger/Runeterra-Compare  
+● 传记 Biography  
+● Version 2019.01.13  
+● All Based on 英雄联盟宇宙 League of Legends Universe  

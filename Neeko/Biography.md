@@ -1,5 +1,8 @@
-# \<万花通灵\> 妮蔻
-### \<The Curious Chameleon\> Neeko
+● Runeterra Compare  
+***
+
+# &lt;万花通灵&gt; 妮蔻
+### &lt;The Curious Chameleon&gt; Neeko
 
 #### 引述 Quote by 妮蔻 (Neeko)
 > 雾尾族已经没了。妮蔻要自己弄一个新的部落，现在就要。  
@@ -184,3 +187,9 @@
 #### 16
 > 一旦你理解了妮蔻，就会爱上她。而一旦你爱上了妮蔻，你就会成为她。  
 > To know Neeko is to love Neeko, and to love Neeko is to be Neeko.  
+
+***
+● github.com/LOLArranger/Runeterra-Compare  
+● 传记 Biography  
+● Version 2019.01.13  
+● All Based on 英雄联盟宇宙 League of Legends Universe  

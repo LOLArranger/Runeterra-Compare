@@ -1,3 +1,6 @@
+● Runeterra Compare  
+***
+
 # 幻梦池 The Dreaming Pool
 
 > 作者 Author: Anthony Reynolds  
@@ -1527,3 +1530,9 @@
 >
 > “这个抉择很简单。”  
 > “The choice is a simple one.”  
+
+***
+● github.com/LOLArranger/Runeterra-Compare  
+● 故事 Story  
+● Version 2019.01.13  
+● All Based on 英雄联盟宇宙 League of Legends Universe  

@@ -1,5 +1,8 @@
-# \<解脱者\> 塞拉斯
-### \<The Unshackled\> Sylas
+● Runeterra Compare  
+***
+
+# &lt;解脱者&gt; 塞拉斯
+### &lt;The Unshackled&gt; Sylas
 
 #### 引述 Quote by 塞拉斯 (Sylas)
 > 我不是叛逆。  
@@ -127,11 +130,11 @@
 >
 > 禁魔石是德玛西亚对抗危险法术的基石，
 > It was the foundation of Demacia’s defenses against harmful sorcery, 
-> 塞拉斯发现禁魔石其实并不压制魔法，而是**吸收**`(<absorb>)`魔法。  
+> 塞拉斯发现禁魔石其实并不压制魔法，而是**吸收**`<absorb>`魔法。  
 > but he came to see that it did not suppress magic, but absorb it.  
 
 #### 11
-> 塞拉斯猜想如果魔法被存储在禁魔石**之内**`(<within>)`，那他是否能释放里面被吸收的魔法……？。  
+> 塞拉斯猜想如果魔法被存储在禁魔石**之内**`<within>`，那他是否能释放里面被吸收的魔法……？。  
 > And if the power was held within the petricite, Sylas wondered, could he release it…?.  
 
 #### 12
@@ -173,3 +176,9 @@
 >
 > 他们同心协力为一个目标而战：掀翻王座，并打碎这个一直以来压制法师们的制度。  
 > all now aligned toward a common goal: to topple the throne, and demolish the oppressive system that has made them suffer for so long.  
+
+***
+● github.com/LOLArranger/Runeterra-Compare  
+● 传记 Biography  
+● Version 2019.01.13  
+● All Based on 英雄联盟宇宙 League of Legends Universe  

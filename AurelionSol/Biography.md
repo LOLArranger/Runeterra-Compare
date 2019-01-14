@@ -1,5 +1,8 @@
-# \<铸星龙王\> 奥瑞利安·索尔
-### \<The Star Forger\> Aurelion Sol
+● Runeterra Compare  
+***
+
+# &lt;铸星龙王&gt; 奥瑞利安·索尔
+### &lt;The Star Forger&gt; Aurelion Sol
 
 #### 引述 Quote by 奥瑞利安·索尔 (Aurelion Sol)
 > 瑟缩，崇拜，惊叹。人之常态，概莫能外。  
@@ -132,3 +135,9 @@
 
 > 所有人都会明白，阴谋窃取**星空之龙**`(cosmic dragon)`的威能要付出何等恐怖的代价。  
 > All will learn what fate befalls those who strive to steal for themselves the power of a cosmic dragon.  
+
+***
+● github.com/LOLArranger/Runeterra-Compare  
+● 传记 Biography  
+● Version 2019.01.13  
+● All Based on 英雄联盟宇宙 League of Legends Universe  
