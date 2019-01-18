@@ -11,8 +11,7 @@
 > The darkening forest was full of beauty, but the girl saw none of it as she stomped along the winding path.  
 
 #### 目录 Catalog
-> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10)  
-> [11](#11) | [12](#12)  
+> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10) || [11](#11) | [12](#12)  
 
 #### 01
 > 逐渐昏暗下来的森林美不胜收，不过女孩无心观赏，跺着脚走在蜿蜒曲折的小路上。  
@@ -39,7 +38,7 @@
 > 这一切都有些异样……似乎她早已经历过这一切。她摇了摇头，继续向前走，深入茂密的森林。  
 > There was something strangely familiar about all of this… almost like she’d lived it before. She shook her head and continued on, deeper into the forest.  
 
-> 她终于来到了神圣的**灵柳**`(ghost-willow)`前。  
+> 她终于来到了神圣的**灵柳** `(ghost-willow)` 前。  
 > Finally, she stood before the sacred ghost-willow.  
 >
 > 它慵懒的枝条犹如在水中漂荡，摩挲碰撞着发出风铃般的低语。  
@@ -91,7 +90,7 @@
 > Her tormentors were not laughing now...  
 
 #### 02
-> **卡兰**`(Kalan)`站在**斐洛尔**`(Fae’lor)`的城防垛口上，视线越过狭海投向**初生之土**`(the First Lands)`的内陆——如今被人类称为**艾欧尼亚**`(Ionia)`的那片土地。  
+> **卡兰** `(Kalan)` 站在**斐洛尔** `(Fae’lor)` 的城防垛口上，视线越过狭海投向**初生之土** `(the First Lands)` 的内陆——如今被人类称为**艾欧尼亚** `(Ionia)` 的那片土地。  
 > Kalan stood upon the battements of Fae’lor, looking across the narrow sea towards the mainland of the First Lands—what humans now called Ionia.  
 
 > 今晚没有月亮，但一切都如同白昼一般被他尽收眼底，他猫科动物的瞳孔已开到最大。  
@@ -100,7 +99,7 @@
 > 有的时候，这双眼睛会被火炬照亮，并反射出炯炯的神光——这是一双暗夜掠食者的眼睛。  
 > Occasionally, they caught the gleam of torch-light and reflected it back brightly; the mirrored eyes of a night predator.  
 
-> 卡兰是**瓦斯塔亚**`(vastaya)`，血脉可追溯至远古。  
+> 卡兰是**瓦斯塔亚** `(vastaya)` ，血脉可追溯至远古。  
 > Kalan was vastaya, of the ancient bloodline.  
 >
 > 他落日般耀眼的毛发编成一根根脏辫垂在后背，只不过如今他的毛发中夹杂了一缕缕灰丝。  
@@ -115,7 +114,7 @@
 > 他的太阳穴处生出一对弯曲的犄角，每一根都印刻着螺旋的符文图案，他的**三条尾巴**在身后扫来扫去，每一条都覆盖着一节节板甲。  
 > Curling horns sprouted from his temples, each engraved with spiralling ***runic patterns***, and his three tails swished behind him, each covered in segmented plate.  
 >
-> 他穿着**诺克萨斯的**`(Noxian)`黑铁铠甲，这身来自他第二祖国的装束总是让他愁容满面。  
+> 他穿着**诺克萨斯的** `(Noxian)` 黑铁铠甲，这身来自他第二祖国的装束总是让他愁容满面。  
 > The armor he wore was Noxian dark iron, and he wore the trappings of his adopted empire with a scowl.  
 
 > 有人叫他叛徒，说他既背叛了艾欧尼亚，也背叛了瓦斯塔亚的传承，但他不在乎。  
@@ -133,7 +132,7 @@
 > 但最后还是在诺克萨斯入侵期间溃于一次漫长的围城。  
 > before being finally overrun after a long siege during the Noxian invasion.  
 
-> 那个时候卡兰还没有加入**诺克萨斯**`(Noxus)`。在命运的分叉口，**普雷西典**`(Placidium)`之战，他向**斯维因**`(Swain)`投诚。  
+> 那个时候卡兰还没有加入**诺克萨斯** `(Noxus)` 。在命运的分叉口，**普雷西典** `(Placidium)` 之战，他向**斯维因** `(Swain)` 投诚。  
 > That was before Kalan had joined Noxus, before the fateful Battle of the Placidium when he’d pledged himself to Swain.  
 >
 > 后来又向帝国索要了斐洛尔统治者的位置作为奖赏。  
@@ -154,7 +153,7 @@
 > 总之，那场战斗过了几个春秋，斐洛尔依然被侵略者掌控。  
 > Nevertheless, many seasons after the end of the campaign, Fae’lor remained under the invaders’ control.  
 
-> 现有三十三条**战舰**`(warship)`停靠在此，还有不到这个数目一半的商贸船只。  
+> 现有三十三条**战舰** `(warship)` 停靠在此，还有不到这个数目一半的商贸船只。  
 > Thirty-three warships were currently docked here, as well as perhaps half that number of trader vessels and merchant ships.  
 >
 > 在他麾下共有一千多名诺克萨斯战士，由帝国各个偏远角落的战团老兵混编而成。  
@@ -212,10 +211,10 @@
 > 他也穿着一袭黑衣，伏在黑影中，只不过在他姐姐脸上刺青的位置，他的皮肤是厚实的瘢痕刻印。  
 > He too was fully clad in black and crouched in shadow, though in place of his sister’s swirling tattoos, his skin was a solid block of etched flesh.  
 
-> “略有才能，**奥金**`(Okin)`？”她提起一瞥眉毛说道。  
+> “略有才能，**奥金** `(Okin)` ？”她提起一瞥眉毛说道。  
 > “Passably decent, Okin?” she replied, one eyebrow rising.  
 
-> “不能让你太骄傲，**希里克**`(Sirik)`，”她的弟弟回答。  
+> “不能让你太骄傲，**希里克** `(Sirik)` ，”她的弟弟回答。  
 > “No need to feed your ego, Sirik,” her brother replied.  
 
 > “不闹了，”希里克说。  
@@ -254,7 +253,7 @@
 > 又有七个黑衣人从黑暗的水里出现，静悄悄地爬到甲板上，拥入黑影中。  
 > Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.  
 
-> 他们是**无告者**`(the dispossessed)`，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。  
+> 他们是**无告者** `(the dispossessed)` ，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。  
 > They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them.  
 >
 > 那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
@@ -356,7 +355,7 @@
 > 她闭上双眼，让心中的随想静默下来。  
 > She closed her eyes and silenced her inner thoughts.  
 >
-> 她睁开**心灵之眼**`(mind’s eye)`，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴~~进~~`近?`水晶，将其煽动活跃。  
+> 她睁开**心灵之眼** `(mind’s eye)` ，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴~~进~~ `(近?)` 水晶，将其煽动活跃。  
 > In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.  
 
 > 她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。  
@@ -371,7 +370,7 @@
 > 这就像吹口哨，或者纵卷舌头——有人天生就能，有人一辈子也不能。  
 > It was like being able to whistle, or curl your tongue—some people could do it, others couldn’t.  
 
-> 希里克调整呼吸的深度，强化了无声的祈求，鼓动那颗**火焰石**`(fyrestone)`发挥自己原本的特性。  
+> 希里克调整呼吸的深度，强化了无声的祈求，鼓动那颗**火焰石** `(fyrestone)` 发挥自己原本的特性。  
 > Sirik deepened her breathing, and intensified her silent entreaties, encouraging the fyrestone to do what was it its nature to do.  
 
 > 她的天赋能力很小，但它引发的水晶活化的效果绝不小。  
@@ -380,7 +379,7 @@
 > 当然，火焰石本身的不稳定性是主要，她的天生能力是次要，但无论怎么说，制造出的结果很震撼。  
 > That had more to do with the volatile nature of the fyrestone crystal than any innate power of her own, of course, but nevertheless, the result was impressive.  
 
-> 在下方的港湾里，那艘诺克萨斯的**猩红女猎手**`(Crimson Huntress)`号战舰爆炸了，一团火球推着热浪照亮了黑夜。  
+> 在下方的港湾里，那艘诺克萨斯的**猩红女猎手** `(Crimson Huntress)` 号战舰爆炸了，一团火球推着热浪照亮了黑夜。  
 > In the harbor below, the Noxian warship Crimson Huntress exploded, lighting up the night in a billowing fireball.  
 >
 > 所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。  
@@ -480,7 +479,7 @@
 > 现在，他需要关注一件更重要的事。  
 > Right now, he had something far more important to focus on.  
 
-> “他们的目标是**幻梦池**`(the Dreaming Pool)`。”他怒吼道。  
+> “他们的目标是**幻梦池** `(the Dreaming Pool)` 。”他怒吼道。  
 > “They are going for the Dreaming Pool,” he snarled.  
 
 #### 05
@@ -493,7 +492,7 @@
 > 他们现在已经很接近了。  
 > They were close, now.  
 >
-> 前方庭院的另一侧，一座山崖伸向夜空，希里克的目光瞄向**顶峰**`(peak)`。  
+> 前方庭院的另一侧，一座山崖伸向夜空，希里克的目光瞄向**顶峰** `(peak)` 。  
 > A rocky bluff reached up to the night sky in the courtyard beyond their position, and Sirik’s eyes were drawn to its peak.  
 >
 > 一座突兀的建筑挡在星空中，那里便是他们的目标。  
@@ -565,7 +564,7 @@
 > 长矛穿胸而过，他整个身体都被带飞到半空，跌下悬崖。  
 > It took him in the chest and lifted him off his feet, hurling him off the bluff.  
 
-> 两名守卫站在悬崖顶端的**神庙**`(shrine)`入口处严阵以待。  
+> 两名守卫站在悬崖顶端的**神庙** `(shrine)` 入口处严阵以待。  
 > Two guards stood before the entrance to the shrine at the top of the bluff.  
 >
 > 两个人都肌肉健硕，身穿黑色重甲，一手擎着巨盾，另一手紧握锯齿切肉斧。  
@@ -649,7 +648,7 @@
 > 她深吸一口气，将这些情感推到一边，继续专心完成这次的任务。  
 > With a deep breath, she pushed those feelings aside, so as to focus on the task at hand.  
 
-> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉**`(the Dael’eh Ahira)`——幻梦池。  
+> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉** `(the Dael’eh Ahira)` ——幻梦池。  
 > With a silent nod, she led the four remaining dispossessed Ionians into the shrine known to her people as the Dael’eh Ahira—the Dreaming Pool.  
 
 #### 06
@@ -760,7 +759,7 @@
 > 一个女子躺在那里，沉在水面以下，她纯白的长发围绕在身边，慵懒地在水中飘洒。  
 > A woman lay there, beneath the surface, her pure white hair, long and flowing, drifting around her languidly.  
 
-> **辛德拉**`(Syndra)`。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
+> **辛德拉** `(Syndra)` 。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
 > Syndra. That was her name; a byword for destruction, for giving in to your ***darkest fears and anger***.  
 >
 > 时至今日这个名字依然在许多省份遭人咒骂。  
@@ -796,7 +795,7 @@
 > 这个人曾摧毁了斐洛尔中心的平静神庙。  
 > This one had been responsible for the destruction of the once-peaceful temple at the heart of Fae’lor.  
 >
-> 她能被控制住全都要靠这片**土地的灵魂**`(the spirit of the land)`亲自将她拖下来，将她俘获在这奇怪的胶着状态。  
+> 她能被控制住全都要靠这片**土地的灵魂** `(the spirit of the land)` 亲自将她拖下来，将她俘获在这奇怪的胶着状态。  
 > She had only been contained when ***the spirit of the land*** itself had drawn her down here, pulling her in and ensnaring her within this strange, suspended existence.  
 
 > 希里克曾经提出过自己的疑问，为何要让辛德拉活下来。  
@@ -1164,7 +1163,7 @@
 > 头冠环绕她的眉头，如同黑暗被赐予了生命，构成了一对高大、弯曲的犄角。  
 > It coiled around her brow, like darkness given life, to form a pair of tall, curving horns.  
 >
-> 一颗**纯粹的暗影之珠**`(A bead of pure shadow)`出现在头冠正中，像宝石一样剪影，像火一样燃烧，像辛德拉的血一样散发出一波波能量。  
+> 一颗**纯粹的暗影之珠** `(A bead of pure shadow)` 出现在头冠正中，像宝石一样剪影，像火一样燃烧，像辛德拉的血一样散发出一波波能量。  
 > A bead of pure shadow formed at its center, becoming as hard as a gemstone, and burning with the same power that bled from her in waves.  
 
 > 希里克在空中扭来扭去，她的弟弟奥金则挣脱了卡兰的抓握。  
@@ -1220,7 +1219,7 @@
 > “我们都是艾欧尼亚的孩子！”  
 > “We are both children of Ionia! ***Join us***!”  
 
-> 辛德拉俯视着~~她~~`him`，目光中辐射出力量。  
+> 辛德拉俯视着~~她~~ `[him]` `(他?)` ，目光中辐射出力量。  
 > Syndra looked down upon ***him***, her gaze radiating power.  
 
 > “诺克萨斯人袭击了我们的土地，屠杀了我们的人民！”他继续说。  
@@ -1459,7 +1458,7 @@
 > 在纳沃利的普雷西典，将会有一场大战。虽然代价惨重，但你将得胜。  
 > At the Placidium of Navori, a great battle will be fought. While it will be bloody, you will be victorious.  
 >
-> 你将被奉为英雄。你和你的**灵犀**`(heartlight)`将宁静生活许多年。  
+> 你将被奉为英雄。你和你的**灵犀** `(heartlight)` 将宁静生活许多年。  
 > You will be proclaimed a hero. You and your heartlight live in peace for many years.  
 >
 > 你很幸福。然而，你将注定活着送走膝下的一对幼仔，他们都死于非命。”  
@@ -1534,5 +1533,5 @@
 ***
 ● github.com/LOLArranger/Runeterra-Compare  
 ● 故事 Story  
-● Version 2019.01.13  
-● All Based on 英雄联盟宇宙 League of Legends Universe  
+● Version 2019.01.18  
+● All Based on League of Legends Universe(英雄联盟宇宙)  

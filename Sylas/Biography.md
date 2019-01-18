@@ -8,18 +8,19 @@
 > 我不是叛逆。  
 > I am no traitor.  
 >
-> 我是真正的**德玛西亚人**`(Demacia)`。  
+> 我是真正的**德玛西亚人** `(Demacia)` 。  
 > I am the true Demacia.  
 
 #### 简介 Short
-> 在小城**边沟镇**`(Dregbourne)`长大的**塞拉斯**`(Sylas)`，如今却成了德玛西亚**雄都**`(the Great City)`的黑暗面的代表人物。  
+> 在小城**边沟镇** `(Dregbourne)` 长大的**塞拉斯** `(Sylas)` ，如今却成了德玛西亚**雄都** `(the Great City)` 的黑暗面的代表人物。  
 > Raised in one of Demacia’s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City.  
 >
-> 当他还是个男孩的时候，人人避之唯恐不及的**搜魔人**`(mageseeker)`发现他拥有感知法师的能力，  
+> 当他还是个男孩的时候，人人避之唯恐不及的**搜魔人** `(mageseeker)` 发现他拥有感知法师的能力，  
 > As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers,  
 >
-> ~~便将他控制起来，利用这种能力来对付塞拉斯的同类。~~  
+> ~~便将他控制起来，利用这种能力来对付塞拉斯的同类。~~<sup>1</sup>  
 > **who eventually imprisoned him for turning those same powers against them.**  
+
 >
 > 逃出生天之后的塞拉斯现在是一个坚定的抗命者，他要借助法师的力量摧毁自己曾经侍奉过的王国。  
 > Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served…  
@@ -28,17 +29,16 @@
 > 遭到放逐而前来追随他的法师也与日俱增。  
 
 #### 目录 Catalog
-> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10)  
-> [11](#11) | [12](#12) | [13](#13) | [14](#14) | [15](#15)
+> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10) || [11](#11) | [12](#12) | [13](#13) | [14](#14) | [15](#15)
 
 #### 01
-> 作为一个出生于**德玛西亚**`(Demacian)`穷苦家庭的法师，**边沟镇**`(Dregbourne)`的**塞拉斯**`(Sylas)`从一开始就注定了一生的不幸。  
+> 作为一个出生于**德玛西亚** `(Demacian)` 穷苦家庭的法师，**边沟镇** `(Dregbourne)` 的**塞拉斯** `(Sylas)` 从一开始就注定了一生的不幸。  
 > As a mage born to a poor Demacian family, Sylas of Dregbourne was perhaps doomed from the start.  
 >
 > 塞拉斯父母的地位不高，但他们一直都是德玛西亚理想的拥护者。  
 > Despite their low social standing, his parents were firm believers in their country’s ideals.  
 >
-> 当他们发现他们的儿子被魔法“感染”后他们说服了塞拉斯向**搜魔人**`(mageseeker)`自首。  
+> 当他们发现他们的儿子被魔法“感染”后他们说服了塞拉斯向**搜魔人** `(mageseeker)` 自首。  
 > So, when they discovered their son was “afflicted” with magical abilities, they convinced him to turn himself in to the kingdom’s mageseekers.  
 
 #### 02
@@ -98,14 +98,14 @@
 > Though he was still just a youth, Sylas was sentenced to life imprisonment.  
 
 #### 07
-> 他被关押在搜魔人监狱最深最暗之处并被迫带上了沉重的**禁魔石**`(petricite)`镣铐。  
+> 他被关押在搜魔人监狱最深最暗之处并被迫带上了沉重的**禁魔石** `(petricite)` 镣铐。  
 > He languished in the darkest depths of the mageseeker compound, forced to wear heavy shackles of magic-dampening petricite.  
 >
 > 在他的魔法视野被封印后，他的心变得与禁锢他的禁魔石一般冷硬，他仅剩的愿望就是向囚禁他的人复仇。  
 > Robbed of his arcane sight, his heart turned as hard as the stone that bound him, and he dreamed of vengeance on all who had put him there.  
 
 #### 08
-> 在塞拉斯被囚禁的十五年后，一个名为**拉克珊娜**`(Luxanna)`的**光照者**`(Illuminators)`志愿者开始拜访他。  
+> 在塞拉斯被囚禁的十五年后，一个名为**拉克珊娜** `(Luxanna)` 的**光照者** `(Illuminators)` 志愿者开始拜访他。  
 > After fifteen wretched years, a young volunteer from the Illuminators named Luxanna began to visit him.  
 >
 > 就算带着禁魔镣铐塞拉斯也能感知到她是一个强大的法师。  
@@ -121,7 +121,7 @@
 > 最后塞拉斯说服拉克丝为他带来了一本禁书——  
 > Eventually, through careful manipulation, he convinced the girl to smuggle a forbidden tome into his cell—  
 >
-> 记录了传奇雕塑家**杜朗**`(Durand)`使用禁魔石方式的秘本。  
+> 记录了传奇雕塑家**杜朗** `(Durand)` 使用禁魔石方式的秘本。  
 > the original writings of the great sculptor Durand, detailing his work with petricite.  
 
 #### 10
@@ -130,11 +130,11 @@
 >
 > 禁魔石是德玛西亚对抗危险法术的基石，
 > It was the foundation of Demacia’s defenses against harmful sorcery, 
-> 塞拉斯发现禁魔石其实并不压制魔法，而是**吸收**`<absorb>`魔法。  
+> 塞拉斯发现禁魔石其实并不压制魔法，而是**吸收** `<absorb>` 魔法。  
 > but he came to see that it did not suppress magic, but absorb it.  
 
 #### 11
-> 塞拉斯猜想如果魔法被存储在禁魔石**之内**`<within>`，那他是否能释放里面被吸收的魔法……？。  
+> 塞拉斯猜想如果魔法被存储在禁魔石**之内** `<within>` ，那他是否能释放里面被吸收的魔法……？。  
 > And if the power was held within the petricite, Sylas wondered, could he release it…?.  
 
 #### 12
@@ -148,8 +148,8 @@
 > 但拉克丝却没有再次拜访塞拉斯。  
 > But she never visited Sylas again.  
 >
-> 她的家族，强大的**冕卫**`(Crownguards)`家族发现了他们的交往并因此大发雷霆。  
-> Her family, the immensely powerful Crownguards, had learned of their contact, and were furious that <u>**Lux had broken the law to help this vile criminal**</u>.  
+> 她的家族，强大的**冕卫** `(Crownguards)` 家族发现了他们的交往并因此大发雷霆。  
+> Her family, the immensely powerful Crownguards, had learned of their contact, and were furious that <u>**Lux had broken the law to help this vile criminal**</u><sup>2</sup>.  
 >
 > 在没有解释的情况下塞拉斯的惩罚被改为绞刑。  
 > Without explanation, it was arranged for Sylas to be hanged.  
@@ -164,7 +164,7 @@
 > 就像他想象的一样，镣铐吸收了拉克丝的魔法，而塞拉斯随时都可以将这些魔法释放。  
 > As he had predicted, her power surged into the petricite shackles, ready for him to unleash—  
 >
-> 他使用偷来的魔法~~杀害了场上所有人~~，除了饱受惊吓的拉克丝。  
+> 他使用偷来的魔法~~杀害了场上所有人~~<sup>3</sup>，除了饱受惊吓的拉克丝。  
 > and with that stolen magic, **Sylas blasted his way free**, sparing only the terrified young Crownguard.  
 
 #### 15
@@ -178,7 +178,13 @@
 > all now aligned toward a common goal: to topple the throne, and demolish the oppressive system that has made them suffer for so long.  
 
 ***
+● 可供参考的直译  
+> 1: （猎魔人）最终囚禁了他，因为他转化了猎魔人的力量来反抗他们。  
+> 2: 拉克丝触犯法律去帮助这个邪恶的罪犯。  
+> 3: 塞拉斯杀出一条路  
+
+***
 ● github.com/LOLArranger/Runeterra-Compare  
 ● 传记 Biography  
-● Version 2019.01.13  
-● All Based on 英雄联盟宇宙 League of Legends Universe  
+● Version 2019.01.18  
+● All Based on League of Legends Universe(英雄联盟宇宙)  

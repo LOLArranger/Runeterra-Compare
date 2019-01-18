@@ -8,6 +8,7 @@
 | 英雄 Champion | 传记 Biography | 短篇 Short Story |
 | ------- | ------- | ------- |
 | 奥瑞利安·索尔 Aurelion Sol | [Done](AurelionSol/Biography.md) | Wait |
+| 卡莎 Kai'sa | [Done](Kaisa/Biography.md) | Wait |
 | 妮蔻 Neeko | [Done](Neeko/Biography.md) | None |
 | 塞拉斯 Sylas | [Done](Sylas/Biography.md) | Wait |
 | 辛德拉 Syndra | [Done](Syndra/Biography.md) | [Done](Syndra/ShortStory.md) |
@@ -23,10 +24,10 @@
 #### Mark in Article
 |Style|Meaning|
 |-|-|
-**Bold Text**`(its english)` | Proper noun or somthing should be Note |
-**Bold Text**`<its english>` | Official Mark |
-~~Delete Text~~`its english` | Wrong translation
-~~Delete Text~~`correct text?` | Wrong translation with correct text maybe right
+**Bold Text** `(its english)` | Proper noun or somthing should be Note |
+**Bold Text** `<its english>` | Official Mark |
+~~Delete Text~~ `[its english]` | Wrong translation
+~~Delete Text~~ `(correct text?)` | Wrong translation with correct text maybe right
 <u>Underline Text</u> | Missing translation
 
 #### Markdown Theme

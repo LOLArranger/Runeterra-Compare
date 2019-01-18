@@ -22,11 +22,10 @@
 > Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her.  
 
 #### 目录 Catalog
-> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10)  
-> [11](#11) | [12](#12) | [13](#13) | [14](#14)  
+> [01](#01) | [02](#02) | [03](#03) | [04](#04) | [05](#05) | [06](#06) | [07](#07) | [08](#08) | [09](#09) | [10](#10) || [11](#11) | [12](#12) | [13](#13) | [14](#14)  
 
 #### 01
-> 出生于**纳沃利**`(Navori)`省的顽童**辛德拉**`(Syndra)`一直是个爱走神的孩子。  
+> 出生于**纳沃利** `(Navori)` 省的顽童**辛德拉** `(Syndra)` 一直是个爱走神的孩子。  
 > As a young child of Navori, Syndra was prone to distraction.  
 
 > 她经常出神地凝望池塘中的影蚀，或者观察糖壳虫排队上墙。  
@@ -38,10 +37,10 @@
 > 甚至就连家里的牛奶酸败或者遭遇其他小意外，也都会怪在辛德拉的头上。  
 > Syndra was even blamed when the milk soured, or when any other minor misfortunes befell the family.  
 #### 02
-> 她的哥哥**艾瓦德**`(Evard)`总爱挖苦她。  
+> 她的哥哥**艾瓦德** `(Evard)` 总爱挖苦她。  
 > Her older brother, Evard, teased her more than anyone.  
 
-> 辛德拉经常会逃到自己最喜欢的秘密基地——被村里人奉为圣树的那棵**灵柳**`(the ghost-willow)`下面。  
+> 辛德拉经常会逃到自己最喜欢的秘密基地——被村里人奉为圣树的那棵**灵柳** `(the ghost-willow)` 下面。  
 > Syndra often fled to her favorite hiding spot—the ghost-willow, a tree sacred to the people of her village.  
 
 > 她会对那颗灵柳说上好几小时悄悄话，倾诉带给她慰藉。  
@@ -68,19 +67,19 @@
 > 艾瓦德和他的伙伴们惊恐地后退，那棵古树的枝干扭曲变形，树皮枯萎成焦黑色。  
 > Evard and his friends backed away in horror as the ancient tree twisted, its bark withering to a tarry black.  
 #### 05
-> 没有了灵柳，村民们开始担心他们与**艾欧尼亚之魂**`(the Spirit of Ionia)`之间的连接已被切断，而辛德拉一家是众矢之的。  
+> 没有了灵柳，村民们开始担心他们与**艾欧尼亚之魂** `(the Spirit of Ionia)` 之间的连接已被切断，而辛德拉一家是众矢之的。  
 > Deprived of the ghost-willow, the villagers grew concerned that their connection to the Spirit of Ionia had been severed, and Syndra’s family was to blame.  
 
 > 于是他们不得不搬到新的地方，并时刻忌惮着她的魔法。  
 > Forced to move on in search of a new home, all had become fearful of her magic.  
 #### 06
-> 经过几个月的旅途，他们来到了海边，遇到了一位隐居的祭司，**柯尼根**`(Konigen)`。  
+> 经过几个月的旅途，他们来到了海边，遇到了一位隐居的祭司，**柯尼根** `(Konigen)` 。  
 > After months of travel, they reached the coast and encountered a ***hermit-priest*** named Konigen.  
 
-> 他说起了他在**斐洛岛**`(the island of Fae’lor)`上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。  
+> 他说起了他在**斐洛岛** `(the island of Fae’lor)` 上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。  
 > He spoke of his home on the island of Fae’lor, where he taught those who wished to learn to control their wild magic, and Syndra’s family could see no other option—perhaps he could succeed where they had not.  
 
-> 于是年轻的辛德拉爬上一座悬崖边的神庙，~~伴着~~`crafted`漆黑古老的砖石，默默守望着大海。  
+> 于是年轻的辛德拉爬上一座悬崖边的神庙，~~伴着~~ `[crafted]` `(雕琢着?)` 漆黑古老的砖石，默默守望着大海。  
 > Young Syndra climbed the steps to a cliffside temple, ***crafted*** long ago from dark stone, and overlooking the sea.  
 
 > 虽然她怀念自己以前的生活，但她还是努力吸收着老师的智慧，全力投入对自己情绪的掌控。  
@@ -107,7 +106,7 @@
 > 辛德拉从地面上站起来，心中激荡着沮丧。  
 > Syndra rose from the floor, as her frustrations surged within her.  
 
-> 她从空中攫取黑暗法球，用它们**洞穿**`<through>`导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
+> 她从空中攫取黑暗法球，用它们**洞穿** `<through>` 导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
 > She snatched dark orbs from the air, and cast them through her mentor’s body, forcing him to feel all of her bitter outrage as he died.  
 #### 10
 > 顶盖不复再，碎石如雨下，花园圣所被尘土埋葬。  
@@ -128,7 +127,7 @@
 > 这世界几乎已经忘记她曾存在过。  
 > Most of the world forgot she had ever existed.  
 #### 13
-> **诺克萨斯帝国**`(the Noxian empire)`带来的战争使**艾欧尼亚**`(Ionia)`人产生了分裂，辛德拉终于被那些曾经守护斐洛的人唤醒了。  
+> **诺克萨斯帝国** `(the Noxian empire)` 带来的战争使**艾欧尼亚** `(Ionia)` 人产生了分裂，辛德拉终于被那些曾经守护斐洛的人唤醒了。  
 > War with the Noxian empire divided the people of Ionia, and Syndra was eventually awakened by those who had once stood guard over Fae’lor.  
 
 > 有些人要杀她，而另一些人则希望她能够一起对抗诺克萨斯，然而她的混沌之力扑向了所有人。  
@@ -146,5 +145,5 @@
 ***
 ● github.com/LOLArranger/Runeterra-Compare  
 ● 传记 Biography  
-● Version 2019.01.13  
-● All Based on 英雄联盟宇宙 League of Legends Universe  
+● Version 2019.01.18  
+● All Based on League of Legends Universe(英雄联盟宇宙)  
