@@ -144,8 +144,8 @@
 > 他原本可以换来更丰厚的赏赐——但他还是选择了斐洛尔，这个帝国边缘被遗忘的角落。  
 > He could have had a far more prestigious posting—but he had chosen Fae’lor, at the forgotten edge of the empire.  
 
->他们不明白。但他觉得无所谓。他需要留在这。  
->They didn’t understand, and that mattered nothing to him. He needed to be here.  
+>他们不明白。但他觉得无所谓。他**需要**`<needed>`留在这。  
+>They didn’t understand, and that mattered nothing to him. He **needed** to be here.  
 
 > 当然，诺克萨斯并没有赢得那场战争……但艾欧尼亚也不是胜利者。  
 > Noxus had not won the war, of course… but nor had Ionia.  
@@ -174,8 +174,8 @@
 > 他回过头再度看向狭海对面，驻足于重重往事。  
 > He turned to look back across the sea once more, brooding on the past.  
 >
-> 他为什么在这里？  
-> Why was he here?  
+> **他为什么在这里？**`<Why was he here?>`  
+> **Why was he here?**  
 >
 > 这个问题每天都会从他属下的眼神中发出，也会在最黑暗的夜里爬上他的心头，  
 > It was a question he saw in the eyes of his subordinates every day, and one that crept up on him the darkest of nights,  
@@ -183,15 +183,15 @@
 > 在那些夜里，森林和狩猎在呼唤他。然而，答案很简单。  
 > those nights when the forest, and the hunt, called to him. The answer was simple, however.  
 
-> 他在这里是为了能够一直守望她。  
-> He remained here to keep watch over her.  
+> 他在这里是为了能够一直守望**她**`<her>`。  
+> He remained here to keep watch over **her**.  
 
 #### 03
 > 一对黑衣人从海里钻了出来，一男一女，如死亡般无影无声。  
 > A pair of dark-clad figures—one female, one male—emerged from the sea, unseen, and as silent as death.  
 >
-> 他们像蜘蛛一样敏捷地爬上了猩红女猎手号战舰近乎垂直的侧舷，沿着舷缘悄声潜行。  
-> Swiftly, moving like spiders, they scaled the near-vertical hull of the warship Crimson Huntress, and slunk over its gunwale.  
+> 他们像蜘蛛一样敏捷地爬上了**猩红女猎手号**`<Crimson Huntress>`战舰近乎垂直的侧舷，沿着舷缘悄声潜行。  
+> Swiftly, moving like spiders, they scaled the near-vertical hull of the warship **Crimson Huntress**, and slunk over its gunwale.  
 >
 > 他们的刀刃闪着寒光，战舰的守夜哨兵被悄无声息地放倒，接二连三，没有发出任何警报。  
 > Their blades glinted, and the ship’s night wardens were silently dispatched, one after another, without any alarm being sounded.  
@@ -211,8 +211,8 @@
 > 他也穿着一袭黑衣，伏在黑影中，只不过在他姐姐脸上刺青的位置，他的皮肤是厚实的瘢痕刻印。  
 > He too was fully clad in black and crouched in shadow, though in place of his sister’s swirling tattoos, his skin was a solid block of etched flesh.  
 
-> “略有才能，**奥金** `(Okin)` ？”她提起一瞥眉毛说道。  
-> “Passably decent, Okin?” she replied, one eyebrow rising.  
+> “**略有才能**`<Passably decent>`，**奥金** `(Okin)` ？”她提起一瞥眉毛说道。  
+> “**Passably decent**, Okin?” she replied, one eyebrow rising.  
 
 > “不能让你太骄傲，**希里克** `(Sirik)` ，”她的弟弟回答。  
 > “No need to feed your ego, Sirik,” her brother replied.  
@@ -455,8 +455,8 @@
 > 那个人在他的凝视下面色煞白，似乎身体也变矮小了，就如同一只蟾蜍缩回自己的土洞。  
 > The man paled under his gaze, and seemed to shrink a little, like a toad retreating into its hole.  
 >
-> “炸的是火焰石，不是黑火药。而且他们就在这里。这不是懦弱之举。”  
-> “It was fyrestone, not blackpowder. And they are still here. This was not an act of cowards.”  
+> “炸的是火焰石，不是黑火药。而且他们**就在**`<are>`这里。这不是懦弱之举。”  
+> “It was fyrestone, not blackpowder. And they **are** still here. This was not an act of cowards.”  
 
 > 那名军官大气都不敢喘。  
 > The officer gaped silently, like a landed fish.  
@@ -648,7 +648,7 @@
 > 她深吸一口气，将这些情感推到一边，继续专心完成这次的任务。  
 > With a deep breath, she pushed those feelings aside, so as to focus on the task at hand.  
 
-> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉** `(the Dael’eh Ahira)` ——幻梦池。  
+> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉** `<the Dael’eh Ahira>` ——幻梦池。  
 > With a silent nod, she led the four remaining dispossessed Ionians into the shrine known to her people as the Dael’eh Ahira—the Dreaming Pool.  
 
 #### 06
@@ -759,7 +759,7 @@
 > 一个女子躺在那里，沉在水面以下，她纯白的长发围绕在身边，慵懒地在水中飘洒。  
 > A woman lay there, beneath the surface, her pure white hair, long and flowing, drifting around her languidly.  
 
-> **辛德拉** `(Syndra)` 。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
+> **辛德拉** `<Syndra>` 。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
 > Syndra. That was her name; a byword for destruction, for giving in to your ***darkest fears and anger***.  
 >
 > 时至今日这个名字依然在许多省份遭人咒骂。  
@@ -828,7 +828,7 @@
 > 不，这种风险的代价太大了。  
 > No, that danger was too great to risk.  
 >
-> 辛德拉必须死。就今晚。  
+> 辛德拉必须死。**就今晚**`<Tonight>`。  
 > Syndra must die. Tonight.  
 
 > 希里克将装满翅萤光球扔给她弟弟，然后向池塘深处迈进，刀剑出鞘。  
@@ -840,7 +840,7 @@
 > “没时间了，老弟”希里克说。  
 > “We have no time, brother,” said Sirik.  
 >
-> “诺克萨斯人很快就能追上来。我们必须马上了断。”  
+> “诺克萨斯人很快就能追上来。我们必须**马上**`<now>`了断。”  
 > “The Noxians will be upon us momentarily. We must end this now.”  
 
 > “但她可能是我们反抗的最强武器。”  
@@ -858,8 +858,8 @@
 > “然后呢，老弟？你觉得她能被控制住吗？”  
 > “And what then, brother? You think she could be controlled?”  
 
-> “我们不必控制她！”奥金上前一步，他的声音充满激情。  
-> “We wouldn’t need to control her.” Okin stepped forward, his voice full of passion.  
+> “我们**不必**`<wouldn’t need>`控制她！”奥金上前一步，他的声音充满激情。  
+> “We **wouldn’t need** to control her.” Okin stepped forward, his voice full of passion.  
 >
 > “我们可以进攻诺克萨斯，把战争带到他们的土地上。我们可以——。”  
 > “We could strike against Noxus, in its heartland! We could—”  
@@ -867,14 +867,14 @@
 > “你真傻，老弟，”希里克打断了他，她的语调充满嘲弄。她转过身，开始涉水走向静静躺在不远处的辛德拉。  
 > “You are a fool, brother,” Sirik interrupted him, her voice thick with derision. She turned away, and began to wade towards the motionless figure of Syndra.  
 
-> “我不能让你乱来，老姐。我们不能让。”  
-> “I can’t let you do that, sister. We can’t let you.”  
+> “我不能让你乱来，老姐。**我们**`<We>`不能让。”  
+> “I can’t let you do that, sister. **We** can’t let you.”  
 
 > 这时希里克才意识到，她的弟弟和另外两个同伴已经分散开来包围了她，剑拔弩张。  
 > It was only then Sirik realized her brother and her other two companions had fanned out around her, weapons drawn.  
 >
-> “你们不让？”  
-> “You can’t let me?” she said.  
+> “你们**不让**`<let>`？”  
+> “You can’t **let** me?” she said.  
 
 > “别逼我们，老姐。”  
 > “Don’t make us do this, sister.”  
@@ -888,8 +888,8 @@
 > “我不逼你们，”她说。  
 > “I’m not making you do anything,” she said.  
 >
-> “我们来到这里就是为了终结艾欧尼亚的威胁——而不是将其释放。”  
-> “We came here to end a threat to Ionia—not unleash it.”  
+> “我们来到这里就是为了**终结**`<end>`艾欧尼亚的威胁——而不是将其**释放**`<unleash>`。”  
+> “We came here to **end** a threat to Ionia—not **unleash** it.”  
 
 > “这次机会可以让我们——”  
 > “This could be our chance to—”  
@@ -981,7 +981,7 @@
 > 他用力张开双手，长长的爪子从指间伸出，前臂的外侧也伸出尖刺。  
 > He flexed his hands, and long talons emerged from his fingertips, as well as along the ridge of his forearms.  
 
-> “根本不存在艾欧尼亚，”这名瓦斯塔亚战士吼道。  
+> “根本**不存在**`<is no>`艾欧尼亚，”这名瓦斯塔亚战士吼道。  
 > “There is no Ionia,” snarled the vastayan warrior.  
 >
 > “从来都不存在。在初生之土上散落着上千个凡人的文化，每一个都有自己的信仰、习俗、历史和世仇。  
@@ -1157,8 +1157,8 @@
 > 辛德拉一只手辐射出黑暗能量，将希里克悬在空中，无可作为，而辛德拉的双眼此刻燃烧着冷酷的火。  
 > Dark power radiated from one hand as she kept Sirik held aloft, floating helplessly, and her eyes burned with cold fire.  
 
-> 接下来的景象让希里克既恐惧又痴迷，她看到一顶头盔——或者说是一顶王冠从辛德拉的头上长了出来。  
-> As Sirik watched, both horrified and fascinated, ***a helm—or perhaps a crown—grew*** into existence upon Syndra’s head.  
+> 接下来的景象让希里克既恐惧又痴迷，她看到一顶头盔——或者说是一顶**王冠**`<crown>`从辛德拉的头上长了出来。  
+> As Sirik watched, both horrified and fascinated, ***a helm—or perhaps a crown***—grew into existence upon Syndra’s head.  
 >
 > 头冠环绕她的眉头，如同黑暗被赐予了生命，构成了一对高大、弯曲的犄角。  
 > It coiled around her brow, like darkness given life, to form a pair of tall, curving horns.  
@@ -1189,8 +1189,8 @@
 > “几十年。我们早就该杀了你。”  
 > “Decades. We should have killed you long ago.”  
 
-> 她感知到了辛德拉的恨，像一把刀一样插进了她体内，她痛苦地喘息。  
-> She felt Syndra’s hatred surge as a painful stab within her, and she gasped.  
+> 她**感知**`<felt>`到了辛德拉的恨，像一把刀一样插进了她体内，她痛苦地喘息。  
+> She **felt** Syndra’s hatred surge as a painful stab within her, and she gasped.  
 >
 > 辛德拉愤怒地低吼一声，一挥手把希里克扔到洞穴的角落。  
 > Then Syndra snarled in fury, and with a gesture sent Sirik hurtling across the cavern.  
@@ -1261,7 +1261,7 @@
 > 希里克尖叫一声，但她无能为力。  
 > Sirik screamed, but there was nothing she could do.  
 >
-> 辛德拉轻弹手腕，手上的黑球立刻向奥金飞去，然后穿透了他。  
+> 辛德拉轻弹手腕，手上的黑球立刻向奥金飞去，然后**穿透**`<through>`了他。  
 > With a flick of her wrist, Syndra sent the orb hurtling toward, then through, her brother.  
 >
 > 奥金大口喘气，身上渐渐没了血色，最后沉入了水中。  
@@ -1533,5 +1533,5 @@
 ***
 ● github.com/LOLArranger/Runeterra-Compare  
 ● 故事 Story  
-● Version 2019.01.18  
+● Version 2019.01.22  
 ● All Based on League of Legends Universe(英雄联盟宇宙)  
