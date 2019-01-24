@@ -34,15 +34,15 @@
 > 他们被称为**雾尾** `(Oovi-Kat)` 族。  
 > They were called the Oovi-Kat,  
 >
-> 这个部落的谱系可以一直上溯到传说中的**瓦斯塔亚霞瑞** `(Vastayashai’rei)` ——所有**瓦斯塔亚** `(Vastaya)` 的祖先。  
-> and could trace their lineage generation by generation back to the legendary Vastayashai’rei—the ancestors of all vastaya.  
+> 这个部落的谱系可以一直上溯到传说中的**瓦斯塔亚霞瑞** `(Vastayashai'rei)` ——所有**瓦斯塔亚** `(Vastaya)` 的祖先。  
+> and could trace their lineage generation by generation back to the legendary Vastayashai'rei—the ancestors of all vastaya.  
 
 #### 02
 > 雾尾族热爱和平，但同时身怀无与伦比的潜能。  
 > The Oovi-Kat were peaceful beings, of unrivaled potential.  
 >
-> 整个部落与**精神领域** `(the spirit realm)` 完美地谐调，所以他们的**“烁玛”** `(sho’ma)` ——也就是**灵魂** `(spiritual essence)` ——  
-> Their harmonious society blended seamlessly with the spirit realm, so that their sho’ma—their spiritual essence—  
+> 整个部落与**精神领域** `(the spirit realm)` 完美地谐调，所以他们的**“烁玛”** `(sho'ma)` ——也就是**灵魂** `(spiritual essence)` ——  
+> Their harmonious society blended seamlessly with the spirit realm, so that their sho'ma—their spiritual essence—  
 >
 > 可以与周遭的生物相融，甚至让他们可以模拟出相应的**外形** `(physical forms)` 。  
 > could intermingle with other beings through mere proximity, and even help them mimic other physical forms.  
@@ -115,7 +115,7 @@
 > Neeko could not understand all his words, but he demanded to know which tribe she belonged to.  
 >
 > 妮蔻只好动用自己的烁玛，模拟出他的面孔和表情，希望科雷特能明白自己没有恶意。  
-> Neeko reached out with her sho’ma, mimicking his face and expression to make her peaceful intentions understood,  
+> Neeko reached out with her sho'ma, mimicking his face and expression to make her peaceful intentions understood,  
 >
 > 可是他好像一点也不喜欢这样。科雷特的可怕想法汹涌而来，妮蔻窜进了人群，不停地变换形象直到将他摆脱。  
 > but Krete did not seem to like this at all. Overwhelmed by his darkening thoughts, Neeko fled into the crowd, altering her shape many times until she escaped.  
@@ -181,7 +181,7 @@
 > As far as she is concerned, everyone has the potential to find a place in her new tribe.  
 >
 > 她渴望找到这样的心灵，与之结交，并用自己的性命去守护他们的烁玛。  
-> She has pledged to seek these souls out, to befriend them, and defend their sho’ma with her life.  
+> She has pledged to seek these souls out, to befriend them, and defend their sho'ma with her life.  
 
 #### 16
 > 一旦你理解了妮蔻，就会爱上她。而一旦你爱上了妮蔻，你就会成为她。  

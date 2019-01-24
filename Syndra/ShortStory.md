@@ -36,7 +36,7 @@
 > She paused, looking back at the broken petals on the path, and frowned.  
 >
 > 这一切都有些异样……似乎她早已经历过这一切。她摇了摇头，继续向前走，深入茂密的森林。  
-> There was something strangely familiar about all of this… almost like she’d lived it before. She shook her head and continued on, deeper into the forest.  
+> There was something strangely familiar about all of this… almost like she'd lived it before. She shook her head and continued on, deeper into the forest.  
 
 > 她终于来到了神圣的**灵柳** `(ghost-willow)` 前。  
 > Finally, she stood before the sacred ghost-willow.  
@@ -54,7 +54,7 @@
 > Something hit her, hard, in the back of the head, and she fell to her knees.  
 >
 > 她用一只手碰了碰被打的地方，手指沾满了血。  
-> She touched a hand where she’d been struck, and her fingers came away bloody.  
+> She touched a hand where she'd been struck, and her fingers came away bloody.  
 >
 > 然后她听到了嘲笑声，于是她的狂怒涌了上来。  
 > Then she heard the laughter, and her fury surged to the fore.  
@@ -78,7 +78,7 @@
 > but now it was dying, its supple limbs turning bone-dry and brittle, its roots curling in pain.  
 >
 > 枝头的风铃敲响亡语的丧钟，但女孩没有听见灵柳，她已迷失于鼎沸的狂怒之中。  
-> Its chimes tolled a mournful death-rattle, but the girl didn’t hear it, lost in the moment of her seething fury.  
+> Its chimes tolled a mournful death-rattle, but the girl didn't hear it, lost in the moment of her seething fury.  
 
 > 随着那颗古老原始的灵树消逝，女孩离开了地面，漂浮于空中。  
 > As the ancient, primordial tree perished, the little girl began to lift off the ground, rising into the air.  
@@ -90,8 +90,8 @@
 > Her tormentors were not laughing now...  
 
 #### 02
-> **卡兰** `(Kalan)` 站在**斐洛尔** `(Fae’lor)` 的城防垛口上，视线越过狭海投向**初生之土** `(the First Lands)` 的内陆——如今被人类称为**艾欧尼亚** `(Ionia)` 的那片土地。  
-> Kalan stood upon the battements of Fae’lor, looking across the narrow sea towards the mainland of the First Lands—what humans now called Ionia.  
+> **卡兰** `(Kalan)` 站在**斐洛尔** `(Fae'lor)` 的城防垛口上，视线越过狭海投向**初生之土** `(the First Lands)` 的内陆——如今被人类称为**艾欧尼亚** `(Ionia)` 的那片土地。  
+> Kalan stood upon the battements of Fae'lor, looking across the narrow sea towards the mainland of the First Lands—what humans now called Ionia.  
 
 > 今晚没有月亮，但一切都如同白昼一般被他尽收眼底，他猫科动物的瞳孔已开到最大。  
 > It was a dark, moonless night, but he saw as clearly as if it were daylight, the pupils of his feline eyes fully dilated.  
@@ -109,7 +109,7 @@
 > His proud face was akin to that of a great hunting cat, and criss-crossed with scars from a lifetime of battle.  
 >
 > 他左侧的面庞没有毛发，怒张的红色肌理是他作为年轻战士时严重灼伤的证明。  
-> The left side of that face was furless, and angry red welts bore evidence of the horrible burns he’d suffered as a young warrior.  
+> The left side of that face was furless, and angry red welts bore evidence of the horrible burns he'd suffered as a young warrior.  
 >
 > 他的太阳穴处生出一对弯曲的犄角，每一根都印刻着螺旋的符文图案，他的**三条尾巴**在身后扫来扫去，每一条都覆盖着一节节板甲。  
 > Curling horns sprouted from his temples, each engraved with spiralling ***runic patterns***, and his three tails swished behind him, each covered in segmented plate.  
@@ -118,13 +118,13 @@
 > The armor he wore was Noxian dark iron, and he wore the trappings of his adopted empire with a scowl.  
 
 > 有人叫他叛徒，说他既背叛了艾欧尼亚，也背叛了瓦斯塔亚的传承，但他不在乎。  
-> Some called him a traitor, both to Ionia and his vastayan heritage, but he didn’t care.  
+> Some called him a traitor, both to Ionia and his vastayan heritage, but he didn't care.  
 >
 > 他们怎么想无关紧要。  
-> What they thought didn’t matter.  
+> What they thought didn't matter.  
 
 > 斐洛尔要塞坐落于艾欧尼亚最西边的岛上。  
-> The fortress of Fae’lor was built upon the ***westernmost*** island of Ionia.  
+> The fortress of Fae'lor was built upon the ***westernmost*** island of Ionia.  
 >
 > 易守难攻，在此伫立了上百年，抵挡过无数敌人的进攻，  
 > Highly defensible, this place had remained for centuries, standing against countless foes,  
@@ -133,25 +133,25 @@
 > before being finally overrun after a long siege during the Noxian invasion.  
 
 > 那个时候卡兰还没有加入**诺克萨斯** `(Noxus)` 。在命运的分叉口，**普雷西典** `(Placidium)` 之战，他向**斯维因** `(Swain)` 投诚。  
-> That was before Kalan had joined Noxus, before the fateful Battle of the Placidium when he’d pledged himself to Swain.  
+> That was before Kalan had joined Noxus, before the fateful Battle of the Placidium when he'd pledged himself to Swain.  
 >
 > 后来又向帝国索要了斐洛尔统治者的位置作为奖赏。  
-> Before he’d requested this post as governor of Fae’lor as reward for his service.  
+> Before he'd requested this post as governor of Fae'lor as reward for his service.  
 
 > 诺克萨斯人在他背后嘲笑他，他很清楚。  
 > The Noxians laughed at him behind his back, he knew.  
 >
 > 他原本可以换来更丰厚的赏赐——但他还是选择了斐洛尔，这个帝国边缘被遗忘的角落。  
-> He could have had a far more prestigious posting—but he had chosen Fae’lor, at the forgotten edge of the empire.  
+> He could have had a far more prestigious posting—but he had chosen Fae'lor, at the forgotten edge of the empire.  
 
->他们不明白。但他觉得无所谓。他**需要**`<needed>`留在这。  
->They didn’t understand, and that mattered nothing to him. He **needed** to be here.  
+>他们不明白。但他觉得无所谓。他**需要** `<needed>` 留在这。  
+>They didn't understand, and that mattered nothing to him. He **needed** to be here.  
 
 > 当然，诺克萨斯并没有赢得那场战争……但艾欧尼亚也不是胜利者。  
 > Noxus had not won the war, of course… but nor had Ionia.  
 >
 > 总之，那场战斗过了几个春秋，斐洛尔依然被侵略者掌控。  
-> Nevertheless, many seasons after the end of the campaign, Fae’lor remained under the invaders’ control.  
+> Nevertheless, many seasons after the end of the campaign, Fae'lor remained under the invaders' control.  
 
 > 现有三十三条**战舰** `(warship)` 停靠在此，还有不到这个数目一半的商贸船只。  
 > Thirty-three warships were currently docked here, as well as perhaps half that number of trader vessels and merchant ships.  
@@ -166,7 +166,7 @@
 > They saluted, fists crashing against breastplates, and he gave a nod in return.  
 >
 > 他并没漏掉哨兵们眼神中的黑暗  
-> He didn’t fail to miss the dark looks they gave him as they marched by.  
+> He didn't fail to miss the dark looks they gave him as they marched by.  
 >
 > 他们对他的憎恨并不亚于艾欧尼亚人，但他们对他存有畏惧和尊敬，而这就已经足够了。  
 > They hated him almost as much as his own people did, but they feared and respected him, and that was enough.  
@@ -174,7 +174,7 @@
 > 他回过头再度看向狭海对面，驻足于重重往事。  
 > He turned to look back across the sea once more, brooding on the past.  
 >
-> **他为什么在这里？**`<Why was he here?>`  
+> **他为什么在这里？** `<Why was he here?>`   
 > **Why was he here?**  
 >
 > 这个问题每天都会从他属下的眼神中发出，也会在最黑暗的夜里爬上他的心头，  
@@ -183,18 +183,18 @@
 > 在那些夜里，森林和狩猎在呼唤他。然而，答案很简单。  
 > those nights when the forest, and the hunt, called to him. The answer was simple, however.  
 
-> 他在这里是为了能够一直守望**她**`<her>`。  
+> 他在这里是为了能够一直守望**她** `<her>` 。  
 > He remained here to keep watch over **her**.  
 
 #### 03
 > 一对黑衣人从海里钻了出来，一男一女，如死亡般无影无声。  
 > A pair of dark-clad figures—one female, one male—emerged from the sea, unseen, and as silent as death.  
 >
-> 他们像蜘蛛一样敏捷地爬上了**猩红女猎手号**`<Crimson Huntress>`战舰近乎垂直的侧舷，沿着舷缘悄声潜行。  
+> 他们像蜘蛛一样敏捷地爬上了**猩红女猎手号** `<Crimson Huntress>` 战舰近乎垂直的侧舷，沿着舷缘悄声潜行。  
 > Swiftly, moving like spiders, they scaled the near-vertical hull of the warship **Crimson Huntress**, and slunk over its gunwale.  
 >
 > 他们的刀刃闪着寒光，战舰的守夜哨兵被悄无声息地放倒，接二连三，没有发出任何警报。  
-> Their blades glinted, and the ship’s night wardens were silently dispatched, one after another, without any alarm being sounded.  
+> Their blades glinted, and the ship's night wardens were silently dispatched, one after another, without any alarm being sounded.  
 
 > 片刻，全部五个诺克萨斯哨兵全都毙命，他们的鲜血开始漏到甲板上。  
 > Within moments, all five Noxians were dead, their lifeblood leaking out onto the deck.  
@@ -209,9 +209,9 @@
 > “I had a passably decent teacher,” replied the other.  
 >
 > 他也穿着一袭黑衣，伏在黑影中，只不过在他姐姐脸上刺青的位置，他的皮肤是厚实的瘢痕刻印。  
-> He too was fully clad in black and crouched in shadow, though in place of his sister’s swirling tattoos, his skin was a solid block of etched flesh.  
+> He too was fully clad in black and crouched in shadow, though in place of his sister's swirling tattoos, his skin was a solid block of etched flesh.  
 
-> “**略有才能**`<Passably decent>`，**奥金** `(Okin)` ？”她提起一瞥眉毛说道。  
+> “**略有才能** `<Passably decent>` ，**奥金** `(Okin)` ？”她提起一瞥眉毛说道。  
 > “**Passably decent**, Okin?” she replied, one eyebrow rising.  
 
 > “不能让你太骄傲，**希里克** `(Sirik)` ，”她的弟弟回答。  
@@ -236,7 +236,7 @@
 > A hint of an orange glow lit it from within for a brief moment, like a fanned ember.  
 
 > “看样是的。我会给他找个好地方，”她一边说，一边点头示意了附近的一扇门，门后通往下层甲板。  
-> “It would seem so. I’ll find a suitable place for it,” she said, nodding to the nearby door leading below deck.  
+> “It would seem so. I'll find a suitable place for it,” she said, nodding to the nearby door leading below deck.  
 >
 > “你发信号通知其他人。”  
 > “You signal the others.”  
@@ -254,7 +254,7 @@
 > Seven other black-clad figures rose from the dark water below, climbing soundlessly up onto the deck of the ship, hugging the shadows.  
 
 > 他们是**无告者** `(the dispossessed)` ，是最后一批留下来的战士。在诺克萨斯扳走斐洛尔以前，他们都是要塞的哨兵。  
-> They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae’lor, before the Noxians had wrested it from them.  
+> They were ***the dispossessed***—the last remaining warriors who had served here at the fortress of Fae'lor, before the Noxians had wrested it from them.  
 >
 > 那场失败的耻辱依然在他们心中常燃不灭，将诺克萨斯人逐出祖先土地的愿望亦不曾熄止。  
 > The shame of that defeat still burned in their hearts, as did the desire to see every Noxian pushed from their ancestral homelands.  
@@ -266,10 +266,10 @@
 > “It is done,” she said.  
 
 > 九名艾欧尼亚无告者流向战舰的一侧，紧跟着带头的姐弟俩。  
-> The nine dispossessed Ionians flowed over the ship’s side, following the leading pair.  
+> The nine dispossessed Ionians flowed over the ship's side, following the leading pair.  
 >
 > 他们的动作行云流水，沿着石台码头向斐洛尔要塞方向轻巧地跑去。  
-> They moved as fluidly as water, and ran lightly along the stone dock towards the fortress of Fae’lor.  
+> They moved as fluidly as water, and ran lightly along the stone dock towards the fortress of Fae'lor.  
 
 > 他们从一处阴影冲进另一处阴影，如同九个幽灵，最后一起停在第一堵高墙下。  
 > From shadow to shadow they darted, like specters, until they reached the first wall.  
@@ -311,7 +311,7 @@
 > Sirik grabbed him, like a lover enfolding her paramour in her arms, and lowered him gently to the ground;  
 >
 > 如果他倒了下去，撞击的声音无疑会引起警戒。  
-> if he’d fallen, the sound would undoubtedly have raised the alarm.  
+> if he'd fallen, the sound would undoubtedly have raised the alarm.  
 
 > 附近其他两名守卫也被迅速放倒，无声且无情，随后其他艾欧尼亚人都翻上城墙。  
 > Two other guards nearby were swiftly dispatched, silently and without mercy, as the other Ionians came over the wall.  
@@ -329,7 +329,7 @@
 > They scrambled up the inner wall, and flowed over the parapet, their timing almost preternatural as they avoided two pairs of a sentries atop the wall.  
 >
 > 斐洛尔要塞背靠的高崖此刻为他们提供了阴影，让他们融入黑夜中。  
-> They ducked into the shadow of the jutting stone bluff Fae’lor abutted, and became as one with the darkness.  
+> They ducked into the shadow of the jutting stone bluff Fae'lor abutted, and became as one with the darkness.  
 
 > 就在这时他们听到一声大吼，从码头的方向回荡。  
 > That was when a shout sounded, echoing up from the docks.  
@@ -338,7 +338,7 @@
 > Okin cursed under his breath.  
 >
 > “他们知道了，”他嘶嘶地说道。  
-> “They know we’re here,” he hissed.  
+> “They know we're here,” he hissed.  
 
 > “我原本希望能在第一具尸体被发现的时候再深入一些的，”  
 > “I had hoped to be further in before they discovered the first body,”  
@@ -355,8 +355,8 @@
 > 她闭上双眼，让心中的随想静默下来。  
 > She closed her eyes and silenced her inner thoughts.  
 >
-> 她睁开**心灵之眼** `(mind’s eye)` ，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴~~进~~ `(近?)` 水晶，将其煽动活跃。  
-> In her mind’s eye, she saw the black crystal she’d secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.  
+> 她睁开**心灵之眼** `(mind's eye)` ，看到了她藏在诺克萨斯战舰甲板下的那枚黑水晶，然后她贴~~进~~ `(近?)` 水晶，将其煽动活跃。  
+> In her mind's eye, she saw the black crystal she'd secreted below the deck of the Noxian warship, and she reached out to it, fanning it to life.  
 
 > 她并不是魔术师，也不是灵魂魔法师，但就像她大多数同胞一样，她能感受到这片土地上的魔法，并能以极其微不足道的方式对其进行操控。  
 > She was no conjurer or soul-mage, but like many of her people, she could feel and subtly manipulate the magic of the land in minor, fairly insignificant ways.  
@@ -368,7 +368,7 @@
 > To outsiders this was shocking, but among her people, such simple gifts were not at all unusual, nor regarded as anything to be held in awe.  
 >
 > 这就像吹口哨，或者纵卷舌头——有人天生就能，有人一辈子也不能。  
-> It was like being able to whistle, or curl your tongue—some people could do it, others couldn’t.  
+> It was like being able to whistle, or curl your tongue—some people could do it, others couldn't.  
 
 > 希里克调整呼吸的深度，强化了无声的祈求，鼓动那颗**火焰石** `(fyrestone)` 发挥自己原本的特性。  
 > Sirik deepened her breathing, and intensified her silent entreaties, encouraging the fyrestone to do what was it its nature to do.  
@@ -383,20 +383,20 @@
 > In the harbor below, the Noxian warship Crimson Huntress exploded, lighting up the night in a billowing fireball.  
 >
 > 所有被斐洛尔的警戒钟声唤起的士兵全都停下了脚步，呆呆地望向那片突然出现的炼狱火海。  
-> Soldiers who were responding to Fae’lor’s warning bells stopped in their tracks, turning towards sudden inferno.  
+> Soldiers who were responding to Fae'lor's warning bells stopped in their tracks, turning towards sudden inferno.  
 
 > 希里克睁开双眼。  
 > Sirik opened her eyes.  
 >
 > “走。”她说。  
-> “Let’s go,” she said.  
+> “Let's go,” she said.  
 
 #### 04
 > 卡兰悄悄来到石台码头前，两侧跟着卫兵，他的三条尾巴充满威胁地扫来扫去。  
 > Kalan stalked onto the stone dock, flanked by guards, his three tails swishing dangerously.  
 
 > “艾欧尼亚人的暗中破坏，我猜是的，大人，”一个面色紧张的军官说道，他需要小步慢跑才能跟得上卡兰的步伐。  
-> “The work of Ionian saboteurs, I would guess, my lord,” said a nervous-looking officer, trotting to keep up with Kalan’s long strides.  
+> “The work of Ionian saboteurs, I would guess, my lord,” said a nervous-looking officer, trotting to keep up with Kalan's long strides.  
 >
 > “黑火药的爆炸，估计是。”  
 > “A black powder detonation, most likely.”  
@@ -417,7 +417,7 @@
 > Kalan could see at a glance that at least one of them was a lost cause, and he snarled in frustration, exposing his teeth.  
 
 > “我们已经拿下了码头，目前正在搜查所有其他船只，”那名紧张的军官说道。  
-> “We’ve secured the docks, and a thorough search of all other ships is currently underway,” said the nervous officer.  
+> “We've secured the docks, and a thorough search of all other ships is currently underway,” said the nervous officer.  
 >
 > “如果还有更多爆炸物，我们一定会搜出来。”  
 > “If there are more explosives, they will be found.”  
@@ -429,10 +429,10 @@
 > He dropped to one knee and scratched at the ground, then lifted his hand to his nose, sniffing.  
 
 > “如果他们还在这里，大人，一定躲不了太久，”那位军官说道，显然他对长官的沉默感到不舒服。  
-> “If they are still here, lord, we’ll find them,” said the officer, clearly uncomfortable with his superior’s silence.  
+> “If they are still here, lord, we'll find them,” said the officer, clearly uncomfortable with his superior's silence.  
 >
 > “不过，我猜他们已经逃出很远了。”  
-> “I’d guess they are long gone, though.”  
+> “I'd guess they are long gone, though.”  
 
 > 卡兰站起来，沿着码头看向海洋的另一侧，看向高耸的城墙。  
 > Kalan stood, and looked back along the dock, away from the sea, towards the towering walls.  
@@ -441,7 +441,7 @@
 > “A cowardly act,” the officer remarked.  
 >
 > “他们知道攻城战打不赢我们，所以他们只能用其他方式伤害我们。  
-> “They know they can’t take us in a siege, so they try to hurt us in other ways.  
+> “They know they can't take us in a siege, so they try to hurt us in other ways.  
 >
 > 但我们不会善罢甘休！我们是诺克萨斯！我们——”  
 > But we will not be deterred! We are Noxus! We—”  
@@ -455,7 +455,7 @@
 > 那个人在他的凝视下面色煞白，似乎身体也变矮小了，就如同一只蟾蜍缩回自己的土洞。  
 > The man paled under his gaze, and seemed to shrink a little, like a toad retreating into its hole.  
 >
-> “炸的是火焰石，不是黑火药。而且他们**就在**`<are>`这里。这不是懦弱之举。”  
+> “炸的是火焰石，不是黑火药。而且他们**就在** `<are>` 这里。这不是懦弱之举。”  
 > “It was fyrestone, not blackpowder. And they **are** still here. This was not an act of cowards.”  
 
 > 那名军官大气都不敢喘。  
@@ -465,7 +465,7 @@
 > “No?” he managed, finally, his voice little more than a squeak.  
 
 > “不是。”卡兰扭过头，向着斐洛尔要塞大步返回。  
-> “No.” Kalan swung away from him, and strode back towards the fortress of Fae’lor.  
+> “No.” Kalan swung away from him, and strode back towards the fortress of Fae'lor.  
 >
 > “这是声东击西。”  
 > “This is a distraction.”  
@@ -484,7 +484,7 @@
 
 #### 05
 > 希里克用手捂住这名诺克萨斯人的嘴，直到他停止挣扎，然后将他死沉沉的尸体放到地上。  
-> Sirik kept her hand clamped across the Noxian’s mouth until his struggles ceased, then dropped his lifeless body to the ground.  
+> Sirik kept her hand clamped across the Noxian's mouth until his struggles ceased, then dropped his lifeless body to the ground.  
 >
 > 她用他的外套把自己血淋淋的匕首擦干，用余光看到她的弟弟和其他人处理了其他诺克萨斯人，清空了这座塔楼的底层。  
 > She wiped her bloody dagger clean on his tunic and glanced around to see her brother and the others deal with the remaining Noxians within the lower level of the tower.  
@@ -493,19 +493,19 @@
 > They were close, now.  
 >
 > 前方庭院的另一侧，一座山崖伸向夜空，希里克的目光瞄向**顶峰** `(peak)` 。  
-> A rocky bluff reached up to the night sky in the courtyard beyond their position, and Sirik’s eyes were drawn to its peak.  
+> A rocky bluff reached up to the night sky in the courtyard beyond their position, and Sirik's eyes were drawn to its peak.  
 >
 > 一座突兀的建筑挡在星空中，那里便是他们的目标。  
 > A jutting structure, blotting out the stars, marked their target.  
 >
 > 警钟依然在轰鸣，传遍整个斐洛尔。  
-> Tolling bells were sounding the alarm, echoing all across Fae’lor.  
+> Tolling bells were sounding the alarm, echoing all across Fae'lor.  
 
 > 希里克带头走到庭院中间，离开高塔，开始向悬崖边凿刻的石阶奔跑。  
 > Sirik led the way out into the courtyard, breaking from the tower and sprinting towards the stone steps carved into the bluff.  
 >
 > 她现在已经不在乎是否会被看到了。诡计的时机已经过去。此刻速度才是最好的朋友。  
-> She didn’t care who saw them now. The time for subterfuge was passed. Now speed was the best ally.  
+> She didn't care who saw them now. The time for subterfuge was passed. Now speed was the best ally.  
 
 > 他们头顶上传来喊叫声，箭矢追着空地上冲刺的艾欧尼亚人。  
 > Shouts erupted from above, and arrows chased the Ionians as they darted across the open space.  
@@ -517,7 +517,7 @@
 > A handful of guards emerged from a nearby gate, rushing to intercept them.  
 >
 > 希里克和同伴们丝毫没有停下脚步，他们抽出武器，弯刀、忍镰、毒镖和铁扇。  
-> Sirik and her companions didn’t even slow as they drew weapons; curved swords, sickles, poisoned darts and bladed fans.  
+> Sirik and her companions didn't even slow as they drew weapons; curved swords, sickles, poisoned darts and bladed fans.  
 >
 > 一下心跳的功夫，他们已经突入诺克萨斯人中间，或滑铲、或空翻，同时给与夺命重击，像跳舞一般突入敌阵。  
 > In a heartbeat they were among the Noxians, sliding under and somersaulting over heavy blows, dancing through them, blades wreaking a bloody toll.  
@@ -577,10 +577,10 @@
 > Moving at speed, Sirik ran up onto the side of the bluff, taking two steps across its vertical surface before leaping off, her short blades seeking the neck of the first guard, even as her brother attacked low.  
 >
 > 奥金翻滚着避开诺克萨斯人的横扫，反手划破对手的一条腿，让对手踉跄失衡。  
-> Okin rolled under a heavy swinging blow and came up behind the Noxian, slashing a backhanded blow across his foe’s leg, making him stumble.  
+> Okin rolled under a heavy swinging blow and came up behind the Noxian, slashing a backhanded blow across his foe's leg, making him stumble.  
 >
 > 希里克像一根长枪一样刺破空气，双刀当先，在那个诺克萨斯人厚重的脖颈上切开两道深沟。  
-> Sirik speared through the air, leading with her blades, carving a pair of deep furrows through the solid meat of the Noxian’s neck.  
+> Sirik speared through the air, leading with her blades, carving a pair of deep furrows through the solid meat of the Noxian's neck.  
 
 > 但他并没有立刻倒下。  
 > Still, he did not fall,  
@@ -589,7 +589,7 @@
 > and as Sirik landed lightly in a low crouch, one hand touching the ground for balance, the injured warrior roared and smashed one of the dispossessed Ionians to the ground with the flat of his tower shield.  
 >
 > 还没等希里克再次出手，那名野蛮的战士就用盾缘切向她伙伴的脖子，一击毙命。  
-> Before Sirik could intervene, the brute slammed the ridge of that shield down onto her fallen comrade’s neck, killing him instantly.  
+> Before Sirik could intervene, the brute slammed the ridge of that shield down onto her fallen comrade's neck, killing him instantly.  
 
 > 另一名诺克萨斯战士也同样棘手，她像一头受伤的公牛一样怒吼着，疯狂地甩打，  
 > The other Noxian was proving equally difficult to put down, bellowing like a wounded bull and flailing about wildly,  
@@ -598,7 +598,7 @@
 > even as she bled from wounds that would have killed most, lesser individuals.  
 
 > 奥金在她厚重胸甲的侧面找到破绽，砍断了诺克萨斯人的肋骨，然后立刻跳到一旁，躲开了反击。  
-> Okin hacked into the Noxian’s ribs, just to the side of her heavy breastplate, and danced aside as his enemy turned on him.  
+> Okin hacked into the Noxian's ribs, just to the side of her heavy breastplate, and danced aside as his enemy turned on him.  
 >
 > 希里克看准时机冲上前，又补了一刀，而当敌人向她的方向砍来，另一个同伴再度见缝插针，从背后命中了那个诺克萨斯人。  
 > Sirik darted in then, landing another strike, and as her enemy swung in her direction, another of her companions did likewise, hitting the Noxian from behind.  
@@ -622,10 +622,10 @@
 > Okin and the others encircled him to land the killing blow, but Sirik shook her head.  
 >
 > “别管他了，”他说道。“正事要紧。”  
-> “Leave him be,” she said. “Come. Let’s finish this.”  
+> “Leave him be,” she said. “Come. Let's finish this.”  
 
 > 那个诺克萨斯人听不懂她说的话，但却听出了她的意图。  
-> The Noxian didn’t understand her words, but recognized their intent.  
+> The Noxian didn't understand her words, but recognized their intent.  
 >
 > 他抬起满是忧伤的双眼，重新站了起来，捡起武器。  
 > He looked up with grief-filled eyes, and regained his feet, picking up his blade.  
@@ -634,7 +634,7 @@
 > Then, with a cry, he launched himself at Sirik.  
 >
 > 他没走几步就被砍倒在地——可能这正是他所期望的。  
-> He was cut down before he went more than a few steps—as he’d likely expected—and he dropped beside the other Noxian.  
+> He was cut down before he went more than a few steps—as he'd likely expected—and he dropped beside the other Noxian.  
 >
 > 然后他倒在另一名诺克萨斯人身边，用最后的力气把手伸向她，彻底咽了气。  
 > With his last breath, he reached out to her, then went limp.  
@@ -648,12 +648,12 @@
 > 她深吸一口气，将这些情感推到一边，继续专心完成这次的任务。  
 > With a deep breath, she pushed those feelings aside, so as to focus on the task at hand.  
 
-> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉** `<the Dael’eh Ahira>` ——幻梦池。  
-> With a silent nod, she led the four remaining dispossessed Ionians into the shrine known to her people as the Dael’eh Ahira—the Dreaming Pool.  
+> 她静静地点了点头，带领剩下的四个艾欧尼亚无告者进入了这座神庙，他的族人称之为**达尔耶·阿希拉**  `<the Dael'eh Ahira>`  ——幻梦池。  
+> With a silent nod, she led the four remaining dispossessed Ionians into the shrine known to her people as the Dael'eh Ahira—the Dreaming Pool.  
 
 #### 06
 > 斐洛尔最初的设计并非是一座要塞。  
-> Fae’lor was not originally intended as a fortress.  
+> Fae'lor was not originally intended as a fortress.  
 
 > 和要塞差的十万八千里，这里曾是宁静和启迪的中心，有天赋的艾欧尼亚年轻人会从四面八方前来，学习如何更好地驾驭自己的天生才能。  
 > Far from it, it was once a center of tranquility and guidance, where gifted young Ionians came, from far and wide, to learn how better to harness their own innate gifts.  
@@ -668,7 +668,7 @@
 > Birds and other wildlife, so abundant on the nearby islands, also shunned it now, except for the dark, hateful crows and ravens that had come with the Noxians.  
 
 > 在诺克萨斯入侵以前，希里克和其他守卫在这里担任哨兵，守望着达尔耶·阿希拉。  
-> For all of Sirik’s time here, before the invasion, she and other guards had stood sentinel, watching over the Dael’eh Ahira.  
+> For all of Sirik's time here, before the invasion, she and other guards had stood sentinel, watching over the Dael'eh Ahira.  
 >
 > 他们的使命是确保那个被关在里面的人永远都不被放出来。  
 > It was their duty to ensure that the one held within it was never released.  
@@ -683,10 +683,10 @@
 > The stone steps were slick with moisture, but she picked her way down swiftly, for it would not be long before the Noxians arrived in overwhelming force.  
 >
 > 他们全都做好了有来无回的准备，唯一重要的就是完成此行的目的，将幻梦池里的威胁彻底终结，不留后患。  
-> None of them had expected to make it back from this mission; all that mattered was completing the task they’d come to achieve, and ending the threat imprisoned down here within the Dreaming Pool once and for all.  
+> None of them had expected to make it back from this mission; all that mattered was completing the task they'd come to achieve, and ending the threat imprisoned down here within the Dreaming Pool once and for all.  
 
 > 他们来到了达尔耶·阿希拉的最深处，最后的十尺是崎岖的石块，他们顺势滑下，落在下方的浅水池中激起一片水花。  
-> They reached the deepest point of the Dael’eh Ahira, finally, sliding down the uneven rocks the final ten feet, and landed with a splash in the shallow waters below.  
+> They reached the deepest point of the Dael'eh Ahira, finally, sliding down the uneven rocks the final ten feet, and landed with a splash in the shallow waters below.  
 
 > 这处神圣<u>场</u>所曾是一道美景，但许多年前的灾难让这里成为地下深处的洞穴。  
 > Once, this shrine had been beautiful, but disaster had brought the cavern down in years past.  
@@ -704,7 +704,7 @@
 > He arrived at the peak alone, and growled in frustration as he saw the corpses there: two Noxian, two Ionian.  
 
 > 他没有等待手下，立刻扎进达尔耶·阿希拉。他在黑暗中向下奔跑，他猫科动物的双眼立刻适应了黑暗。  
-> Without waiting for his warriors, he plunged into the Dael’eh Ahira. Into the darkness he descended, his feline eyes instantly adjusting.  
+> Without waiting for his warriors, he plunged into the Dael'eh Ahira. Into the darkness he descended, his feline eyes instantly adjusting.  
 >
 > 他能够尝出空气中人类的味道，顺着这个方向绝没有错。  
 > He could taste the scent of the humans on the air, leading him on.  
@@ -735,19 +735,19 @@
 > She paused, looking back at the broken petals on the path, and frowned.  
 >
 > 这一切都有些异样……似乎她早已——  
-> There was something strangely familiar about all of this… almost like she’d—  
+> There was something strangely familiar about all of this… almost like she'd—  
 
 > 她的余光中似乎出现了黑色的东西，她环顾四周，想要看清楚。  
 > Dark shapes appeared in her peripheral vision, and she looked around, trying to see them clearly.  
 >
 > 有四个黑影，但只有当她不直视它们的时候才能看得到。  
-> There were four of them, but she could only just make them out if she didn’t look directly at them.  
+> There were four of them, but she could only just make them out if she didn't look directly at them.  
 
 > 她迷惑地皱起眉头。  
 > Her brow furrowed in confusion.  
 >
 > 应该不是这样才对。  
-> This wasn’t how it was meant to be.  
+> This wasn't how it was meant to be.  
 
 > 有些地方非常不对劲。  
 > Something was very wrong.  
@@ -759,7 +759,7 @@
 > 一个女子躺在那里，沉在水面以下，她纯白的长发围绕在身边，慵懒地在水中飘洒。  
 > A woman lay there, beneath the surface, her pure white hair, long and flowing, drifting around her languidly.  
 
-> **辛德拉** `<Syndra>` 。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
+> **辛德拉**  `<Syndra>`  。这既是她的名字，同时也是破坏的代名词，代表着屈服于自己最黑暗的恐惧和愤怒。  
 > Syndra. That was her name; a byword for destruction, for giving in to your ***darkest fears and anger***.  
 >
 > 时至今日这个名字依然在许多省份遭人咒骂。  
@@ -775,7 +775,7 @@
 > The others removed their head-coverings as well.  
 >
 > 所有人脸上都有同样的刺青，这是斐洛尔守护者的象征。  
-> All of them bore similar tattoos upon their faces, tattoos that marked them as guardians of Fae’lor.  
+> All of them bore similar tattoos upon their faces, tattoos that marked them as guardians of Fae'lor.  
 >
 > 所有人都俯视着辛德拉，表情凝重。  
 > All of them looked down at Syndra, their expressions hard.  
@@ -790,10 +790,10 @@
 > She could easily have been mistaken for being dead but for the steady rise and fall of her chest as she breathed the water.  
 
 > 辛德拉看上去一点也不凶恶，但希里克非常清楚这种表象多么具有欺骗性。  
-> Syndra didn’t look at all dangerous, but Sirik knew well how deceiving such an impression was.  
+> Syndra didn't look at all dangerous, but Sirik knew well how deceiving such an impression was.  
 >
 > 这个人曾摧毁了斐洛尔中心的平静神庙。  
-> This one had been responsible for the destruction of the once-peaceful temple at the heart of Fae’lor.  
+> This one had been responsible for the destruction of the once-peaceful temple at the heart of Fae'lor.  
 >
 > 她能被控制住全都要靠这片**土地的灵魂** `(the spirit of the land)` 亲自将她拖下来，将她俘获在这奇怪的胶着状态。  
 > She had only been contained when ***the spirit of the land*** itself had drawn her down here, pulling her in and ensnaring her within this strange, suspended existence.  
@@ -811,13 +811,13 @@
 > Sirik had no answer to that, not then and certainly not now.  
 >
 > 她的老师父总是说平衡，但他死了，被诺克萨斯刀剑杀死的，一起死的还有许多人，都曾担任这个沉睡女子的狱卒，但他们所看管的人却还活着。  
-> Her old master talked of balance, but he was dead, killed by a Noxian blade, along with almost all of those who had served here as this slumbering woman’s jailors, yet the one they had guarded still lived.  
+> Her old master talked of balance, but he was dead, killed by a Noxian blade, along with almost all of those who had served here as this slumbering woman's jailors, yet the one they had guarded still lived.  
 >
 > 这哪里平衡了？  
 > Where was the balance in that?  
 
 > 只要辛德拉活着，她就是威胁，而限制这个威胁的，就是希里克和其他同伴对达尔耶·阿希拉的守望。  
-> As long as she lived, Syndra was a threat, yet that threat was contained while she and the others had stood watch over the Dael’eh Ahira.  
+> As long as she lived, Syndra was a threat, yet that threat was contained while she and the others had stood watch over the Dael'eh Ahira.  
 >
 > 然而，现如今这里已经被诺克萨斯掌控……  
 > Now that it was within Noxian control, however…  
@@ -828,7 +828,7 @@
 > 不，这种风险的代价太大了。  
 > No, that danger was too great to risk.  
 >
-> 辛德拉必须死。**就今晚**`<Tonight>`。  
+> 辛德拉必须死。**就今晚** `<Tonight>` 。  
 > Syndra must die. Tonight.  
 
 > 希里克将装满翅萤光球扔给她弟弟，然后向池塘深处迈进，刀剑出鞘。  
@@ -840,7 +840,7 @@
 > “没时间了，老弟”希里克说。  
 > “We have no time, brother,” said Sirik.  
 >
-> “诺克萨斯人很快就能追上来。我们必须**马上**`<now>`了断。”  
+> “诺克萨斯人很快就能追上来。我们必须**马上** `<now>` 了断。”  
 > “The Noxians will be upon us momentarily. We must end this now.”  
 
 > “但她可能是我们反抗的最强武器。”  
@@ -858,8 +858,8 @@
 > “然后呢，老弟？你觉得她能被控制住吗？”  
 > “And what then, brother? You think she could be controlled?”  
 
-> “我们**不必**`<wouldn’t need>`控制她！”奥金上前一步，他的声音充满激情。  
-> “We **wouldn’t need** to control her.” Okin stepped forward, his voice full of passion.  
+> “我们**不必** `<wouldn't need>` 控制她！”奥金上前一步，他的声音充满激情。  
+> “We **wouldn't need** to control her.” Okin stepped forward, his voice full of passion.  
 >
 > “我们可以进攻诺克萨斯，把战争带到他们的土地上。我们可以——。”  
 > “We could strike against Noxus, in its heartland! We could—”  
@@ -867,17 +867,17 @@
 > “你真傻，老弟，”希里克打断了他，她的语调充满嘲弄。她转过身，开始涉水走向静静躺在不远处的辛德拉。  
 > “You are a fool, brother,” Sirik interrupted him, her voice thick with derision. She turned away, and began to wade towards the motionless figure of Syndra.  
 
-> “我不能让你乱来，老姐。**我们**`<We>`不能让。”  
-> “I can’t let you do that, sister. **We** can’t let you.”  
+> “我不能让你乱来，老姐。**我们** `<We>` 不能让。”  
+> “I can't let you do that, sister. **We** can't let you.”  
 
 > 这时希里克才意识到，她的弟弟和另外两个同伴已经分散开来包围了她，剑拔弩张。  
 > It was only then Sirik realized her brother and her other two companions had fanned out around her, weapons drawn.  
 >
-> “你们**不让**`<let>`？”  
-> “You can’t **let** me?” she said.  
+> “你们**不让** `<let>` ？”  
+> “You can't **let** me?” she said.  
 
 > “别逼我们，老姐。”  
-> “Don’t make us do this, sister.”  
+> “Don't make us do this, sister.”  
 
 > 她的凝视在三人之间跳跃，估算着距离，盘算着自己能否在他们上来之前杀死辛德拉。  
 > Her gaze flicked between them, judging their distance from her, and whether she would be able to kill Syndra before they reached her.  
@@ -886,9 +886,9 @@
 > It would be close.  
 
 > “我不逼你们，”她说。  
-> “I’m not making you do anything,” she said.  
+> “I'm not making you do anything,” she said.  
 >
-> “我们来到这里就是为了**终结**`<end>`艾欧尼亚的威胁——而不是将其**释放**`<unleash>`。”  
+> “我们来到这里就是为了**终结** `<end>` 艾欧尼亚的威胁——而不是将其**释放** `<unleash>` 。”  
 > “We came here to **end** a threat to Ionia—not **unleash** it.”  
 
 > “这次机会可以让我们——”  
@@ -898,7 +898,7 @@
 > “No,” said Sirik.  
 >
 > “你们还不懂吗？就是这来自艾欧尼亚内部的分裂在害我们，在被诺克萨斯人利用。  
-> “Don’t you see? This sort of division within Ionia is killing us, and it’s playing into the Noxians’ hands.  
+> “Don't you see? This sort of division within Ionia is killing us, and it's playing into the Noxians' hands.  
 >
 > 我们分歧、争吵、内乱，而现在我们最需要的是齐心协力。”  
 > We are all divided, arguing and working against each other, when we need to pull together.”  
@@ -910,16 +910,16 @@
 > “她对这片土地的威胁远远大于对诺克萨斯的威胁。只有愚蠢的人才会抱有相反的幻想。”  
 >
 > Sirik pointed at the motionless figure of Syndra.  
-> “She is a greater threat to this land than Noxus. It’s a foolish act of desperation to think otherwise.”  
+> “She is a greater threat to this land than Noxus. It's a foolish act of desperation to think otherwise.”  
 
 > “别再这么固执了，一辈子就这一次也好。”  
 > “Just stop being so stubborn, for once in your life!”  
 
 > “你是说服不了我的，老弟，”她说。“如何。你们要杀了我吗？”  
-> “You’re not going to convince me, brother,” she said. “So what now. You’re going to kill me?”  
+> “You're not going to convince me, brother,” she said. “So what now. You're going to kill me?”  
 
 > “求你了，别让事情走到那一步。”  
-> “Please, don’t let it come to that,” said Okin.  
+> “Please, don't let it come to that,” said Okin.  
 
 > 四个人站在原地凝滞了一秒钟，他们还都没准备好让形势恶化。  
 > The four of them stood frozen for a second, none quite ready to escalate the situation just yet.  
@@ -943,7 +943,7 @@
 > but the second struck home, imbedding itself deep in the meat of her shoulder, making her hiss in pain as she stumbled backwards, falling awkwardly in the water.  
 
 > 太晚了，击中希里克的人这才意识到真正的威胁在自己身后。  
-> Too late, Sirik’s attacker realized the real threat was behind him.  
+> Too late, Sirik's attacker realized the real threat was behind him.  
 >
 > 这名艾欧尼亚人被举了起来，胸口穿出一把剑刃，全部剑身彻底穿过他的身体。  
 > The Ionian was lifted from his feet, a blade bursting from his chest, having been driven completely through him.  
@@ -952,7 +952,7 @@
 > Then he was hurled aside, and the shadowy attacker moved on, abandoning his sword and turning on Okin.  
 
 > 袭来的是个瓦斯塔亚，穿着诺克萨斯的盔甲，他咆哮了一声，嘴唇向后翻动，露出了掠食者的尖牙。  
-> It was a vastaya, garbed in Noxian armor, and he roared, lips curling back to reveal his predator’s teeth.  
+> It was a vastaya, garbed in Noxian armor, and he roared, lips curling back to reveal his predator's teeth.  
 >
 > 震耳欲聋的咆哮声在洞穴里回荡。  
 > The sound reverberated painfully within the cavern.  
@@ -964,7 +964,7 @@
 > This was Kalan, reviled traitor of the Placidium, who had turned away from his people and Ionia to join the enemy.  
 >
 > 斐洛尔是赐给他的奖赏，就像是扔给乖巧宠物的骨头。  
-> He’d been given Fae’lor as his prize, a bone thrown to a loyal and subservient pet.  
+> He'd been given Fae'lor as his prize, a bone thrown to a loyal and subservient pet.  
 >
 > 她和她的弟弟有好几个朋友都死在了他手里。  
 > She and her brother had lost more than a few friends at his hands.  
@@ -981,7 +981,7 @@
 > 他用力张开双手，长长的爪子从指间伸出，前臂的外侧也伸出尖刺。  
 > He flexed his hands, and long talons emerged from his fingertips, as well as along the ridge of his forearms.  
 
-> “根本**不存在**`<is no>`艾欧尼亚，”这名瓦斯塔亚战士吼道。  
+> “根本**不存在** `<is no>` 艾欧尼亚，”这名瓦斯塔亚战士吼道。  
 > “There is no Ionia,” snarled the vastayan warrior.  
 >
 > “从来都不存在。在初生之土上散落着上千个凡人的文化，每一个都有自己的信仰、习俗、历史和世仇。  
@@ -1015,7 +1015,7 @@
 > It was not a killing blow. Nevertheless, Okin and their last companion took advantage of the moment, leaping in to strike.  
 
 > 奥金向前猛冲，但他的攻击被卡兰一掌挡开，紧接着又被一记猛踢击飞到远处。  
-> Okin dashed forward, lunging, but his strike was turned aside by the flat of Kalan’s hand, who then knocked him away with a sharp kick.  
+> Okin dashed forward, lunging, but his strike was turned aside by the flat of Kalan's hand, who then knocked him away with a sharp kick.  
 >
 > 他们最后一个同伴从侧翼快速切入，但这名瓦斯塔亚虽然受了伤，但还是太迅速、太强壮。  
 > Their last companion came in fast from the flank, bladed fans slicing through the air, but the vastaya, even injured, was too fast, and too powerful.  
@@ -1030,7 +1030,7 @@
 > An awful crack sounded as her neck broke.  
 
 > 卡兰的黄色猫眼再次盯住奥金。  
-> Kalan’s yellow cat eyes turned back to Okin.  
+> Kalan's yellow cat eyes turned back to Okin.  
 
 > 希里克的距离太远，她立刻意识到自己帮不上忙了。  
 > Sirik was too far away to help, she knew that instantly.  
@@ -1048,14 +1048,14 @@
 > She heard her brother shout in defiance, and the vastaya roar, but she dared not look back.  
 >
 > 她扎进更深的池水中，伸出手向下探，五指扣住了辛德拉的脖子。  
-> She plunged deeper into the water, and reached down, fingers closing around Syndra’s throat.  
+> She plunged deeper into the water, and reached down, fingers closing around Syndra's throat.  
 >
 > 她的肌肤透着暖暖的体温。希里克的另一只手里，刀刃已经举到致命一击的位置。  
-> Her skin was warm to the touch. In her other hand, Sirik’s blade drew back for the killing blow.  
+> Her skin was warm to the touch. In her other hand, Sirik's blade drew back for the killing blow.  
 
 #### 09
 > 应该不是这样才对。  
-> This wasn’t how it was meant to be.  
+> This wasn't how it was meant to be.  
 
 > 有些地方非常不对劲。  
 > Something was very wrong.  
@@ -1112,16 +1112,16 @@
 > She was having some kind of awful waking dream.  
 >
 > 她刚跑来这里，羞愧与愤怒染红了她的面颊。  
-> She’d just run here, shame and anger coloring her cheeks.  
+> She'd just run here, shame and anger coloring her cheeks.  
 >
 > 她要去灵柳那里，安抚心中激荡的怒火。  
 > She was going to the ghost-willow, to calm the rage surging within her.  
 
 > 不，她已经经历过一次了。  
-> No, she’d already done that.  
+> No, she'd already done that.  
 >
 > 她已经经历过许多次，成百上千次了。  
-> She’d done that over and over, hundreds and thousands of times.  
+> She'd done that over and over, hundreds and thousands of times.  
 >
 > 一遍又一遍地活在那个时间。  
 > Reliving that moment, again and again.  
@@ -1130,14 +1130,14 @@
 > What if this was the dream, and the other vision was real?  
 
 > 辛德拉的憎恨和愤怒开始凝聚成黑暗，并在体内激荡。  
-> The darkness of Syndra’s hatred and anger surged within her.  
+> The darkness of Syndra's hatred and anger surged within her.  
 
 > 于是她从无尽的梦中醒来。  
 > And she woke from her endless dream.  
 
 #### 10
 > 希里克看到辛德拉的双眼猛然睁开。  
-> Sirik saw Syndra’s eyes snap open.  
+> Sirik saw Syndra's eyes snap open.  
 
 > 她绝望地大喊一声，手中的刀刃刺了下去，但没有刺到任何东西，因为某种突然出现的无形力量已将她提到空中。  
 > With a desperate cry, she stabbed down with her blade, but struck nothing, for she was hauled into the air by some sudden, unseen force.  
@@ -1157,8 +1157,8 @@
 > 辛德拉一只手辐射出黑暗能量，将希里克悬在空中，无可作为，而辛德拉的双眼此刻燃烧着冷酷的火。  
 > Dark power radiated from one hand as she kept Sirik held aloft, floating helplessly, and her eyes burned with cold fire.  
 
-> 接下来的景象让希里克既恐惧又痴迷，她看到一顶头盔——或者说是一顶**王冠**`<crown>`从辛德拉的头上长了出来。  
-> As Sirik watched, both horrified and fascinated, ***a helm—or perhaps a crown***—grew into existence upon Syndra’s head.  
+> 接下来的景象让希里克既恐惧又痴迷，她看到一顶头盔——或者说是一顶**王冠** `<crown>` 从辛德拉的头上长了出来。  
+> As Sirik watched, both horrified and fascinated, ***a helm—or perhaps a crown***—grew into existence upon Syndra's head.  
 >
 > 头冠环绕她的眉头，如同黑暗被赐予了生命，构成了一对高大、弯曲的犄角。  
 > It coiled around her brow, like darkness given life, to form a pair of tall, curving horns.  
@@ -1167,7 +1167,7 @@
 > A bead of pure shadow formed at its center, becoming as hard as a gemstone, and burning with the same power that bled from her in waves.  
 
 > 希里克在空中扭来扭去，她的弟弟奥金则挣脱了卡兰的抓握。  
-> Sirik twisted in the air as her brother Okin broke from Kalan’s grasp.  
+> Sirik twisted in the air as her brother Okin broke from Kalan's grasp.  
 >
 > 这时他看到了辛德拉，他的表情充满敬畏。在他看来，那名瓦斯塔亚几乎同样震惊，他猫科的口唇后翻，发出嘶声，瞪圆了双眼。  
 > As he did so, he saw Syndra, his expression one of awe. For his part, the vastaya looked almost as stunned, feline lips curled back in a hiss, his eyes wide.  
@@ -1175,7 +1175,7 @@
 > 随着一声恐怖的气流震荡，三个至暗球体在辛德拉身边实体化，然后缓缓围绕她旋转。  
 > With a horrible, sucking sound, three orbs of utter darkness materialised in the air around Syndra, and began to slowly orbit her.  
 > 它们似乎吞没了洞穴中原本就很微弱的光，并且牵拉着希里克的灵魂，一种憎恶和绝望的感觉扼住了她。  
-> They seemed to swallow the scant light in the cavern, and pull at Sirik’s soul, a vile sensation of loathing and despair clutching at her.  
+> They seemed to swallow the scant light in the cavern, and pull at Sirik's soul, a vile sensation of loathing and despair clutching at her.  
 
 > “多久了？”辛德拉用命令的口吻问道，她的声音因为长久的沉睡而变得破碎而飘忽。  
 > “How long?” Syndra demanded, her voice cracked and unsteady from lack of use.  
@@ -1189,8 +1189,8 @@
 > “几十年。我们早就该杀了你。”  
 > “Decades. We should have killed you long ago.”  
 
-> 她**感知**`<felt>`到了辛德拉的恨，像一把刀一样插进了她体内，她痛苦地喘息。  
-> She **felt** Syndra’s hatred surge as a painful stab within her, and she gasped.  
+> 她**感知** `<felt>` 到了辛德拉的恨，像一把刀一样插进了她体内，她痛苦地喘息。  
+> She **felt** Syndra's hatred surge as a painful stab within her, and she gasped.  
 >
 > 辛德拉愤怒地低吼一声，一挥手把希里克扔到洞穴的角落。  
 > Then Syndra snarled in fury, and with a gesture sent Sirik hurtling across the cavern.  
@@ -1199,7 +1199,7 @@
 > She smashed against a wall some twenty feet distant, and fell heavily, splashing painfully to the floor.  
 >
 > 随后辛德拉的黑暗凝视转向了奥金和那个诺克萨斯生物。  
-> Then Syndra’s dark gaze turned upon Okin and the Noxian creature.  
+> Then Syndra's dark gaze turned upon Okin and the Noxian creature.  
 
 > 希里克痛得咧嘴。  
 > Sirik grimaced in pain.  
@@ -1247,7 +1247,7 @@
 > The only tyranny I experienced was at the hands of those I once called kin.”  
 
 > 奥金的表情充满惊恐，或许他终于意识到自己有多么愚蠢了，他跪坐在原地，彻底放弃。  
-> Okin’s face was mask of horror, perhaps finally realizing his own foolishness, and he slumped to his knees, defeated.  
+> Okin's face was mask of horror, perhaps finally realizing his own foolishness, and he slumped to his knees, defeated.  
 
 > 随着一声刺耳的撕裂声，辛德拉又捏制出一枚至暗球体——她全部的憎恨、厌恶和愤怒都倾注其中。  
 > With a sickening tearing sound, Syndra conjured another dark sphere—all of her bitterness, resentment and anger made manifest.  
@@ -1261,7 +1261,7 @@
 > 希里克尖叫一声，但她无能为力。  
 > Sirik screamed, but there was nothing she could do.  
 >
-> 辛德拉轻弹手腕，手上的黑球立刻向奥金飞去，然后**穿透**`<through>`了他。  
+> 辛德拉轻弹手腕，手上的黑球立刻向奥金飞去，然后**穿透** `<through>` 了他。  
 > With a flick of her wrist, Syndra sent the orb hurtling toward, then through, her brother.  
 >
 > 奥金大口喘气，身上渐渐没了血色，最后沉入了水中。  
@@ -1292,7 +1292,7 @@
 > “You are an abomination,” he hissed.  
 
 > 辛德拉伸出一只手前插，将那个嘶吼着的生物提到空中。  
-> Syndra’s hand stabbed out, and the snarling creature was lifted into the air.  
+> Syndra's hand stabbed out, and the snarling creature was lifted into the air.  
 
 > 幻梦池的水翻涌起来，希里克震惊地看到那些曾经束缚着辛德拉的树根动了起来，正在伸向空中，要再次夺走她。  
 > The waters of the Dreaming Pool were churning, and Sirik stared in wonder as the roots that had held Syndra began reaching out to reclaim her.  
@@ -1356,7 +1356,7 @@
 > It went on for what seemed like an eternity.  
 
 > 当一切停止，令人胆寒的寂静笼罩了整个斐洛尔。  
-> And, when it finally ceased, an unnerving silence fell across Fae’lor.  
+> And, when it finally ceased, an unnerving silence fell across Fae'lor.  
 
 > 希里克从昏暗中爬了出来，呼吸到了新鲜空气，环顾四周，目瞪口呆。  
 > Sirik crawled from the gloom, breathing in fresh air, and stared about her, eyes wide in shock.  
@@ -1374,7 +1374,7 @@
 > With a sharp intake of air, she realized she was looking at the silhouette of the greatest towers and ramparts hanging against the night sky.  
 >
 > 它们没有落到海里，而是被连根拔起，飘向天庭。  
-> It hadn’t collapsed into the sea—it had been ripped from the island, and lifted toward the heavens.  
+> It hadn't collapsed into the sea—it had been ripped from the island, and lifted toward the heavens.  
 
 > 她瞪大了眼睛，费力地喘息。  
 > She stared, her mouth gaping.  
@@ -1401,13 +1401,13 @@
 > The ruined castle in the sky began to drift northwards.  
 >
 > 希里克独自一人坐在被削平的达尔耶·阿希拉顶端，目送它离开，直到黎明的第一道曙光爬上地平线。  
-> Alone at the sundered peak of the Dael’eh Ahira, Sirik watched it go, until the first rays of dawn crept over the horizon.  
+> Alone at the sundered peak of the Dael'eh Ahira, Sirik watched it go, until the first rays of dawn crept over the horizon.  
 
 > 这个夜晚的重量彻底压到她身上。  
 > The import of the night weighed upon her heavily.  
 >
 > 她的弟弟，还有斐洛尔最后的守护者全都死了。除了她自己。  
-> Her brother, and the last of the guardians of Fae’lor were dead. All but her.  
+> Her brother, and the last of the guardians of Fae'lor were dead. All but her.  
 
 > 换成平时，对诺克萨斯制造如此程度的破坏足以让她拍手称快，但是现在，她心情沉重。  
 > And while the destruction wrought against the Noxians this night would have been cause for great rejoicing at any other time, her heart was heavy.  
@@ -1426,7 +1426,7 @@
 > She was a curious creature, violet-skinned, and with a ***pearlescent single horn*** growing from her forehead.  
 >
 > 有些人可能会误认为她和他是同样的血脉，是瓦斯塔霞瑞的子嗣，但他们的族人非常清楚事实并非如此。  
-> Some may have mistaken her for one of his bloodline, the children of the Vastayashai’rei, but any of the kin would know otherwise.  
+> Some may have mistaken her for one of his bloodline, the children of the Vastayashai'rei, but any of the kin would know otherwise.  
 
 > 这位先知的族类甚至比他们的祖先还要古老。  
 > The seer was of a people older even than his ancestors.  
@@ -1450,7 +1450,7 @@
 > I warn you, though—both lead to tragedy and sadness.”  
 
 > 卡兰没有眨眼。“告诉我。”  
-> Kalan didn’t blink. “Tell me.”  
+> Kalan didn't blink. “Tell me.”  
 
 > “第一条路。你对抗入侵者。  
 > “The first path. You fight the invaders.  
@@ -1480,7 +1480,7 @@
 > You will be hated by your kin, and despised by your invader allies.  
 >
 > 他们在普雷西典大败以后，你必须在斐洛尔警备，守护幻梦之地。然后你将留在那里。”  
-> After they are defeated at the Placidium, you must stand vigil on the isle of Fae’lor, guarding over the place of dreaming. And there you will stay.”  
+> After they are defeated at the Placidium, you must stand vigil on the isle of Fae'lor, guarding over the place of dreaming. And there you will stay.”  
 
 > “我的小仔呢？”  
 > “And my little ones?”  
@@ -1504,10 +1504,10 @@
 > Sadness threatened to drag him down, but he suppressed it, pushing it deep inside himself.  
 
 > 他环顾四周，仔细看了看先知的小屋，他觉得有种奇怪的熟悉感……  
-> As he looked around, taking in the details of the seer’s shrine, he felt that there was something strangely familiar about it…  
+> As he looked around, taking in the details of the seer's shrine, he felt that there was something strangely familiar about it…  
 >
 > 隐约觉得似曾相识，似乎这种可怕的悲伤和憾怆已经不止一次地袭来。  
-> a vague sense that he’d been here before, that he’d felt this awful sense of grief and loss more than once.  
+> a vague sense that he'd been here before, that he'd felt this awful sense of grief and loss more than once.  
 
 > 他摇了摇头。  
 > He shook his head.  

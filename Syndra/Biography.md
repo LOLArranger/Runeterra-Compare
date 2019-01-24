@@ -68,7 +68,7 @@
 > Evard and his friends backed away in horror as the ancient tree twisted, its bark withering to a tarry black.  
 #### 05
 > 没有了灵柳，村民们开始担心他们与**艾欧尼亚之魂** `(the Spirit of Ionia)` 之间的连接已被切断，而辛德拉一家是众矢之的。  
-> Deprived of the ghost-willow, the villagers grew concerned that their connection to the Spirit of Ionia had been severed, and Syndra’s family was to blame.  
+> Deprived of the ghost-willow, the villagers grew concerned that their connection to the Spirit of Ionia had been severed, and Syndra's family was to blame.  
 
 > 于是他们不得不搬到新的地方，并时刻忌惮着她的魔法。  
 > Forced to move on in search of a new home, all had become fearful of her magic.  
@@ -76,14 +76,14 @@
 > 经过几个月的旅途，他们来到了海边，遇到了一位隐居的祭司，**柯尼根** `(Konigen)` 。  
 > After months of travel, they reached the coast and encountered a ***hermit-priest*** named Konigen.  
 
-> 他说起了他在**斐洛岛** `(the island of Fae’lor)` 上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。  
-> He spoke of his home on the island of Fae’lor, where he taught those who wished to learn to control their wild magic, and Syndra’s family could see no other option—perhaps he could succeed where they had not.  
+> 他说起了他在**斐洛岛** `(the island of Fae'lor)` 上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。  
+> He spoke of his home on the island of Fae'lor, where he taught those who wished to learn to control their wild magic, and Syndra's family could see no other option—perhaps he could succeed where they had not.  
 
 > 于是年轻的辛德拉爬上一座悬崖边的神庙，~~伴着~~ `[crafted]` `(雕琢着?)` 漆黑古老的砖石，默默守望着大海。  
 > Young Syndra climbed the steps to a cliffside temple, ***crafted*** long ago from dark stone, and overlooking the sea.  
 
 > 虽然她怀念自己以前的生活，但她还是努力吸收着老师的智慧，全力投入对自己情绪的掌控。  
-> Though she missed her old life, she tried to embrace her teacher’s wisdom, and put all her effort into tempering her emotions.  
+> Though she missed her old life, she tried to embrace her teacher's wisdom, and put all her effort into tempering her emotions.  
 #### 07
 > 然而让辛德拉越来气馁的是，多年来的修行不但没有让她学会掌控力量，反而让她的魔法变得衰弱。  
 > However, Syndra grew frustrated as, instead of gaining more control, over the years her magic seemed to weaken.  
@@ -107,13 +107,13 @@
 > Syndra rose from the floor, as her frustrations surged within her.  
 
 > 她从空中攫取黑暗法球，用它们**洞穿** `<through>` 导师的身体，强迫他在死前感受她全部的苦涩和暴怒。  
-> She snatched dark orbs from the air, and cast them through her mentor’s body, forcing him to feel all of her bitter outrage as he died.  
+> She snatched dark orbs from the air, and cast them through her mentor's body, forcing him to feel all of her bitter outrage as he died.  
 #### 10
 > 顶盖不复再，碎石如雨下，花园圣所被尘土埋葬。  
 > The ceiling gave way, rubble raining down, burying the sacred gardens in dust.  
 
 > 辛德拉将她的力量发泄到神庙的废墟上，整个斐洛都能感受到一阵阵冲击波，这座岛的原始魔法也被汲取殆尽。  
-> Syndra turned her powers against what was left of the temple, sending shockwaves throughout Fae’lor, and draining raw magic from the island itself.  
+> Syndra turned her powers against what was left of the temple, sending shockwaves throughout Fae'lor, and draining raw magic from the island itself.  
 #### 11
 > 从未有如此多的阴郁能量集中到一个地方，甚至需要艾欧尼亚之魂本尊鼓起力量与其抗衡。  
 > Never had such negative energy been so concentrated in one place, and it was the Spirit of Ionia that swelled to counter it.  
@@ -128,13 +128,13 @@
 > Most of the world forgot she had ever existed.  
 #### 13
 > **诺克萨斯帝国** `(the Noxian empire)` 带来的战争使**艾欧尼亚** `(Ionia)` 人产生了分裂，辛德拉终于被那些曾经守护斐洛的人唤醒了。  
-> War with the Noxian empire divided the people of Ionia, and Syndra was eventually awakened by those who had once stood guard over Fae’lor.  
+> War with the Noxian empire divided the people of Ionia, and Syndra was eventually awakened by those who had once stood guard over Fae'lor.  
 
 > 有些人要杀她，而另一些人则希望她能够一起对抗诺克萨斯，然而她的混沌之力扑向了所有人。  
 > Some came to kill her, while others hoped she would aid them against Noxus, but she unleashed chaos upon them all.  
 
 > 她拒绝成为别人博弈中的棋子。  
-> She refused to be a pawn in someone else’s game.  
+> She refused to be a pawn in someone else's game.  
 
 > 她冲破了自己的地下监牢，撕裂了岛屿之上建造的堡垒高墙，一座高耸的尖塔拔地而起直冲云霄，载着她远远离去。  
 > Ripping apart the walls of the fortress that had been built on top of her island prison, Syndra raised the greatest tower into the skies to carry her far away.  

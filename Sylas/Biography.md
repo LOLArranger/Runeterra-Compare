@@ -13,7 +13,7 @@
 
 #### 简介 Short
 > 在小城**边沟镇** `(Dregbourne)` 长大的**塞拉斯** `(Sylas)` ，如今却成了德玛西亚**雄都** `(the Great City)` 的黑暗面的代表人物。  
-> Raised in one of Demacia’s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City.  
+> Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City.  
 >
 > 当他还是个男孩的时候，人人避之唯恐不及的**搜魔人** `(mageseeker)` 发现他拥有感知法师的能力，  
 > As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers,  
@@ -36,14 +36,14 @@
 > As a mage born to a poor Demacian family, Sylas of Dregbourne was perhaps doomed from the start.  
 >
 > 塞拉斯父母的地位不高，但他们一直都是德玛西亚理想的拥护者。  
-> Despite their low social standing, his parents were firm believers in their country’s ideals.  
+> Despite their low social standing, his parents were firm believers in their country's ideals.  
 >
 > 当他们发现他们的儿子被魔法“感染”后他们说服了塞拉斯向**搜魔人** `(mageseeker)` 自首。  
-> So, when they discovered their son was “afflicted” with magical abilities, they convinced him to turn himself in to the kingdom’s mageseekers.  
+> So, when they discovered their son was “afflicted” with magical abilities, they convinced him to turn himself in to the kingdom's mageseekers.  
 
 #### 02
 > 在发现塞拉斯能够感知他人的魔法后，搜魔人开始利用他来寻找隐藏在市民中的法师。  
-> Noting the boy’s curious ability to sense magic, they used Sylas to identify other mages living among the citizenry.  
+> Noting the boy's curious ability to sense magic, they used Sylas to identify other mages living among the citizenry.  
 >
 > 这是塞拉斯第一次感到前途的光明，看到一个可以为国家效力的未来。因此他竭尽全力完成他的任务。  
 > For the first time in his life he felt he had a future, a life in service to his country, and he performed these duties faithfully.  
@@ -65,7 +65,7 @@
 > But while the poor were punished for their afflictions, the elite seemed above the law,  
 >
 > 这种不公在塞拉斯的脑海里种下了第一颗怀疑的种子。  
-> and this hypocrisy planted the first seeds of doubt in Sylas’ mind.  
+> and this hypocrisy planted the first seeds of doubt in Sylas' mind.  
 
 #### 04
 > 最终，所有的怀疑和不满都在一个致命的事件中爆发了。  
@@ -81,7 +81,7 @@
 > When he tried to shield the child from the mageseekers, he accidentally brushed against her skin.  
 >
 > 随即她的魔法从塞拉斯的身体中穿过——但魔法却没有伤害他，而是从他的双手不受控制的涌出。  
-> The girl’s magic rushed through Sylas’s body—but rather than killing him, it shot forth from his hands in raw, uncontrolled bursts.  
+> The girl's magic rushed through Sylas's body—but rather than killing him, it shot forth from his hands in raw, uncontrolled bursts.  
 >
 > 塞拉斯发觉了新的力量，而代价则是三条生命的消逝，包括他的搜魔人老师。  
 > It was a talent he did not know he possessed, and it resulted in the deaths of three people, including his mageseeker mentor.  
@@ -115,7 +115,7 @@
 > and over time the two forged an unusual and secretive bond.  
 >
 > 塞拉斯向拉克丝分享了掌控魔法的知识，而拉克丝则带来了外界的消息和塞拉斯渴望的书籍。  
-> In exchange for Sylas’ knowledge of the control of magic, Lux educated him about the world outside his cell, and brought him whatever books he desired.  
+> In exchange for Sylas' knowledge of the control of magic, Lux educated him about the world outside his cell, and brought him whatever books he desired.  
 
 #### 09
 > 最后塞拉斯说服拉克丝为他带来了一本禁书——  
@@ -129,7 +129,7 @@
 > The work revealed the secrets of the stone to Sylas.  
 >
 > 禁魔石是德玛西亚对抗危险法术的基石，
-> It was the foundation of Demacia’s defenses against harmful sorcery, 
+> It was the foundation of Demacia's defenses against harmful sorcery, 
 > 塞拉斯发现禁魔石其实并不压制魔法，而是**吸收** `<absorb>` 魔法。  
 > but he came to see that it did not suppress magic, but absorb it.  
 
@@ -156,7 +156,7 @@
 
 #### 14
 > 行刑之前，拉克丝在绞架旁为她的朋友求情却被无视。  
-> At the gallows, Lux pleaded for her friend’s life, but her cries fell on deaf ears.  
+> At the gallows, Lux pleaded for her friend's life, but her cries fell on deaf ears.  
 >
 > 当行刑者绞紧绳子时塞拉斯用他的镣铐碰到了拉克丝。  
 > As the hangman pushed past her to tighten the noose, Sylas managed to touch against Lux with his chains.  

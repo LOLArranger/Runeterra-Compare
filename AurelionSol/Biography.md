@@ -38,7 +38,7 @@
 > Under the auspices of such fiery harbingers, it is said that new ***empires*** `(帝国)`  rise, old ***civilizations*** `(文明)`  fall, and even the ***stars*** themselves may tumble from the sky.  
 
 > 而这些传闻都远不能描绘其背后真正悚然的事实：这惑人耳目的辉光下，隐藏着一个身怀**伟力** `(unfathomable power)` 的星间灵物。  
-> These theories merely scratch the surface of a far more bizarre truth: that the comet’s radiance cloaks a cosmic being of unfathomable power.  
+> These theories merely scratch the surface of a far more bizarre truth: that the comet's radiance cloaks a cosmic being of unfathomable power.  
 #### 03
 > 奥瑞利安•索尔，这一古老的存在，远在星云的残迹汇聚成万千世界之初便早已现身。  
 > The being now known as Aurelion Sol was already ancient by the time stellar debris first coalesced into worlds.  
@@ -68,7 +68,7 @@
 > An immense storm of stars filled the skies and twisted into a massive form as marvelous as it was terrifying.  
 
 > 星宿的光华在他的体内蜷展漫延，新生的星辰明亮地起搏，星座在他的念转之间便会重排。  
-> Cosmic wonders swirled and twinkled throughout the creature’s body. New stars shone brightly, and constellations rearranged at his whim.  
+> Cosmic wonders swirled and twinkled throughout the creature's body. New stars shone brightly, and constellations rearranged at his whim.  
 
 > 巨神族为其撕裂天地的光芒虔心伏倒，尊他为奥瑞利安•索尔，并奉上了尊贵的权柄：一顶用**星瑰** `(star-gems)` 制成的灿丽皇冠。他便欣然接受了加冕。  
 > Appropriately awed by his illuminant powers, the Targonians titled the dragon Aurelion Sol and presented him with a gift as a token of respect: a splendorous crown of star-gems, which he promptly donned.  
@@ -83,19 +83,19 @@
 > He could hear voices shouting, commanding, from across the cosmic expanse.  
 
 > 看来，他满心欢喜所接受的礼物并非善意。  
-> The gift he’d received was no gift at all, it seemed.  
+> The gift he'd received was no gift at all, it seemed.  
 #### 06
 > 震怒之下，他奋力抵抗着想要控制他的恶念，想要靠着蛮力挣脱这份不祥的羁绊，却发现每当他攻击自己的新主人时，苍穹之中的群星便会有一颗永久地湮散成灰。  
 > Outraged, he fought these controlling impulses and attempted to break his bonds by force, only to discover that for each attack against his newfound masters, one of his stars vanished forever from the firmament.  
 
 > 奥瑞利安•索尔困厄于一种更强横的魔法之下，逼迫着他不得不将自己的威能置于**巨神** `(Targon)` 的掌控之中。  
-> A powerful magic now yoked Aurelion Sol, forcing him to wield his powers exclusively for Targon’s benefit.  
+> A powerful magic now yoked Aurelion Sol, forcing him to wield his powers exclusively for Targon's benefit.  
 
 > 他与撕裂宇宙天幕的披甲巨兽和深空中其他可怖的存在作战，而其中一些灵体自从时间源始便已与他相识。  
 > He battled chitinous beasts that tore at the fabric of this universe. He clashed with other ***cosmic entities*** `(宇宙实体)` , some of which he had known since the dawn of time.  
 
 > 数以千年的时光里，他为巨神驱策指使，粉碎了一切威胁巨神统治的入侵，并帮“它”建立起横跨星域的雄伟帝国。  
-> For millennia, he fought Targon’s wars, crushed any threats to its dominance, and helped it forge a star-spanning empire.  
+> For millennia, he fought Targon's wars, crushed any threats to its dominance, and helped it forge a star-spanning empire.  
 
 > 所有这些杂务，只不过是对他卓绝天赋的无端浪费。  
 > All of these tasks were a waste of his sublime talents.  
